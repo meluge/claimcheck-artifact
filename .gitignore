@@ -1,0 +1,5 @@
+node_modules/
+bench/results/
+construction/work/
+__pycache__/
+*.pyc

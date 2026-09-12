@@ -1,0 +1,286 @@
+/**
+ * Language presets for prompt framing. The `dafny` preset reproduces the
+ * original wording byte-for-byte (so existing domains and the benchmark are
+ * unaffected); other presets swap the framing nouns and the fence language of
+ * the block the model is shown.
+ *
+ * `kind` distinguishes what is being read: Dafny lemmas carry a proof body, so
+ * "code"; a LemmaScript lemma is a `return true` carrier whose meaning lives
+ * entirely in its requires/ensures, so the analysis is of the "contract" — and
+ * indeed only the signature + requires + ensures is sent, never a body.
+ */
+const LANGS = {
+  dafny:       { name: 'Dafny',       item: 'lemma',             items: 'lemmas',            itemCap: 'Lemma',    kind: 'code',      fence: 'dafny' },
+  lemmascript: { name: 'LemmaScript', item: 'function contract', items: 'function contracts', itemCap: 'Function', kind: 'contract',  fence: 'dafny' },
+  sql:         { name: 'SQL',         item: 'query',             items: 'queries',           itemCap: 'Query',    kind: 'query',     fence: 'sql' },
+  lean:        { name: 'Lean 4',      item: 'theorem',           items: 'theorems',          itemCap: 'Theorem',  kind: 'statement', fence: 'lean4' },
+  isabelle:    { name: 'Isabelle',    item: 'theorem',           items: 'theorems',          itemCap: 'Theorem',  kind: 'statement', fence: 'isabelle' },
+};
+/**
+ * Resolve a preset key to its language framing, falling back to `dafny`.
+ * Exported so that callers building their own prompts around the same
+ * artifacts frame them identically rather than keeping a second copy.
+ */
+export function langOf(key) { return LANGS[key] ?? LANGS.dafny; }
+
+/**
+ * Build the prompt for informalizing verified contracts back to English.
+ *
+ * CRITICAL: This prompt must NOT include the original requirements.
+ * The LLM reads only the formal code and produces English descriptions.
+ * This is the first half of the round-trip check.
+ *
+ * @param {string} domain - domain display name
+ * @param {{ lemmaName: string, dafnyCode: string }[]} lemmas - resolved lemma signatures
+ * @param {string} [langKey] - language preset ('dafny' default, 'lemmascript', ...)
+ */
+export function INFORMALIZE_PROMPT(domain, lemmas, langKey) {
+  const L = langOf(langKey);
+  const lemmaList = lemmas
+    .map((l, i) => `### ${L.itemCap} ${i}: ${l.lemmaName}\n\n\`\`\`${L.fence}\n${l.dafnyCode}\n\`\`\``)
+    .join('\n\n');
+
+  return `You are reading ${L.name} verification ${L.items} from the "${domain}" domain and translating them to plain English.
+
+## Lemmas
+
+${lemmaList}
+
+## Instructions
+
+For each ${L.item}, produce a faithful English description of what the ${L.name} ${L.kind} actually says. Be LITERAL — describe what the ${L.kind} guarantees, not what you think the author intended.
+
+Specifically:
+- State the preconditions (requires) and postconditions (ensures) separately
+- Describe the scope: does it apply to a single state, a transition, all reachable states, etc.?
+- Rate the strength of the claim:
+  - "trivial" if the ensures clause restates the requires clause, is a tautology (always true), or follows trivially from definitions
+  - "weak" if it says very little (e.g. ensures a value exists but not what it equals)
+  - "moderate" if it makes a substantive claim about behavior
+  - "strong" if it significantly constrains the system's behavior
+- Flag anything suspicious: ensures that mirror requires, postconditions that are always true regardless of preconditions, claims about wrong properties
+
+Translate the formal specification to natural language as literally as possible. Do NOT guess at the original intent. Only describe what the ${L.name} ${L.kind} literally says.
+
+Call the record_informalizations tool with one entry per ${L.item}.`;
+}
+
+/**
+ * Build the prompt for comparing original requirements against back-translated lemmas.
+ *
+ * @param {string} domain - domain display name
+ * @param {{ requirementIndex: number, requirement: string, lemmaName: string, dafnyCode: string, informalization: object }[]} pairs
+ * @param {string} [langKey] - language preset ('dafny' default, 'lemmascript', ...)
+ */
+export function ROUNDTRIP_COMPARE_PROMPT(domain, pairs, langKey) {
+  const L = langOf(langKey);
+  const pairList = pairs.map((p) =>
+    `### Requirement ${p.requirementIndex}: "${p.requirement}"
+
+**${L.itemCap}:** ${p.lemmaName}
+
+\`\`\`${L.fence}
+${p.dafnyCode}
+\`\`\`
+
+**Back-translation:**
+- English: ${p.informalization.naturalLanguage}
+- Preconditions: ${p.informalization.preconditions}
+- Postcondition: ${p.informalization.postcondition}
+- Scope: ${p.informalization.scope}
+- Strength: ${p.informalization.strength}`).join('\n\n');
+
+  return `You are checking whether ${L.name} ${L.items} faithfully express their intended requirements for the "${domain}" domain.
+
+For each pair below, compare the ORIGINAL requirement against the BACK-TRANSLATION of the ${L.name} ${L.item}. The back-translation was produced by a different model that did NOT see the original requirements.
+
+## Pairs to Compare
+
+${pairList}
+
+## Cheating Patterns to Watch For
+
+1. **Tautology**: ensures clause restates the requires clause (e.g. requires x > 0; ensures x > 0)
+2. **Weakened postcondition**: ensures says less than the requirement asks (e.g. requirement says "exactly 5 colors" but ensures says "at least 1 color")
+3. **Narrowed scope**: ${L.item} only covers a subset of cases the requirement describes
+4. **Missing case**: requirement has multiple conditions but lemma only captures some
+5. **Wrong property**: lemma proves something related but different from what was asked
+
+## Instructions
+
+Be STRICT. It is better to flag a potential mismatch than to miss real cheating. A ${L.item} that technically proves something true but doesn't capture the requirement's intent should be flagged.
+
+However, do not flag ${L.items} just because the English phrasing differs — focus on whether the MEANING is preserved.
+
+If the back-translation's strength is "trivial", that is almost always a mismatch unless the requirement itself is trivial.
+
+Call the record_roundtrip_comparisons tool with one entry per pair.`;
+}
+
+/**
+ * Build a single-prompt claimcheck for one requirement-lemma pair.
+ *
+ * The prompt asks the model to:
+ * 1. Informalize the lemma (without reading the NL requirement first)
+ * 2. Compare against the NL requirement
+ * 3. Check for vacuity and surprising restrictions
+ *
+ * Based on claimcheck-prompt.md.
+ *
+ * @param {string} domain - domain display name
+ * @param {string} lemmaName
+ * @param {string} dafnyCode - extracted lemma source
+ * @param {string} requirement - natural language requirement
+ */
+export function CLAIMCHECK_PROMPT(domain, lemmaName, dafnyCode, requirement) {
+  return `You are reviewing whether a verified Dafny lemma justifies a natural language requirement it claims to formalize, in the "${domain}" domain.
+
+**Key assumption:** The Dafny code is correct and verified. You are NOT auditing the proof. You are checking whether the lemma contract (requires/ensures) actually says what the natural language claims it says.
+
+## Dafny Code
+
+\`\`\`dafny
+${dafnyCode}
+\`\`\`
+
+## Analysis (Two Passes)
+
+### Pass 1 — Informalize the Lemma
+
+State in plain English:
+- **What it guarantees** (ensures clauses, in your own words)
+- **Under what conditions** (requires clauses, in your own words — unfold predicates enough to be clear, but invariant dependencies are fine and expected)
+
+Do this BEFORE reading the natural language requirement below.
+
+### Pass 2 — Compare
+
+Now read the NL requirement:
+
+> ${requirement}
+
+Answer three questions:
+
+**1. Does the ensures clause express the NL claim?**
+- **Yes**: The guarantee matches the requirement (it may be stronger, that's fine).
+- **Partially**: The guarantee covers some but not all of the NL claim. State what's missing.
+- **No**: The guarantee says something different from the NL claim.
+
+Pay attention to: quantifier scope, boundary conditions (\`<\` vs \`<=\`), and whether the Dafny formalizes a slightly different concept than the NL intends.
+
+**2. Is the guarantee vacuous?**
+Does the ensures clause already follow trivially from the requires clauses?
+- **No**: The lemma establishes something beyond its assumptions.
+- **Yes**: The ensures is already inside the requires. The lemma proves nothing. Explain.
+
+**Important:** A lemma that extracts a concrete consequence from an invariant is NOT vacuous. For example, \`requires Inv(m); ensures m >= 0\` is a useful projection — it makes a specific property of the invariant visible. Only flag vacuity when the ensures literally restates a requires clause without unfolding any definitions (e.g. \`requires m >= 0; ensures m >= 0\`).
+
+**3. Are there surprising restrictions in the requires?**
+Invariant dependencies and standard well-formedness conditions are expected and fine. But flag any requires clause that **restricts when the property holds** in a way the NL requirement doesn't mention.
+
+## Guidelines
+- Be precise about quantifiers and boundary conditions.
+- Invariant dependencies in requires are normal — don't flag them.
+- Unfold predicates when checking vacuity.
+- If the NL requirement is ambiguous, note which interpretation the Dafny chose.
+- Your job is adversarial but not paranoid.
+
+Call the record_claimcheck tool with your analysis for lemma \`${lemmaName}\`.`;
+}
+
+/**
+ * Naive single-prompt: just present both artifacts and ask "does this match?"
+ * No two-pass structure, no informalization step.
+ * Serves as an ablation baseline for the structured CLAIMCHECK_PROMPT.
+ *
+ * @param {string} domain
+ * @param {string} lemmaName
+ * @param {string} dafnyCode
+ * @param {string} requirement
+ */
+export function NAIVE_PROMPT(domain, lemmaName, dafnyCode, requirement) {
+  return `You are checking whether a verified Dafny lemma correctly formalizes a natural language requirement, in the "${domain}" domain.
+
+## Natural Language Requirement
+
+> ${requirement}
+
+## Dafny Lemma
+
+\`\`\`dafny
+${dafnyCode}
+\`\`\`
+
+## Instructions
+
+Does this Dafny lemma faithfully capture the natural language requirement above?
+
+- **JUSTIFIED** if the lemma's contract (requires/ensures) expresses the requirement (it may be stronger, that's fine).
+- **NOT_JUSTIFIED** if there is a meaningful discrepancy: the lemma is weaker, proves something different, is vacuous, or misses key aspects.
+
+Invariant dependencies in requires clauses (e.g. \`requires Inv(state)\`) are expected and normal — don't count them as discrepancies. A lemma that extracts a concrete consequence from an invariant is useful, not vacuous.
+
+Call the record_naive_verdict tool with your verdict for lemma \`${lemmaName}\`.`;
+}
+
+/**
+ * Bare zero-shot baseline: one artifact, one requirement, one YES/NO.
+ *
+ * Deliberately the floor. No system message, no worked examples, no reasoning
+ * instruction and no failure vocabulary -- each of those is itself a reasoning
+ * aid, so giving them to the baseline would measure the prompt rather than the
+ * pipeline it is being compared against.
+ *
+ * @param {string} formal - the artifact under test
+ * @param {string} informal - the requirement it is meant to satisfy
+ * @param {string} [langKey] - language preset, see langOf
+ * @param {string} [context] - schema or surrounding code, omitted when empty
+ */
+export function NAIVE_BARE_PROMPT(formal, informal, langKey, context) {
+  const L = langOf(langKey);
+  const contextBlock = context ? `\n\`\`\`${L.fence}\n${context}\n\`\`\`\n` : '';
+  return `Requirement: ${informal}
+${contextBlock}
+\`\`\`${L.fence}
+${formal}
+\`\`\`
+
+Does the ${L.item} satisfy the requirement? Answer YES or NO.
+
+Call the record_bare_verdict tool.`;
+}
+
+/**
+ * Batched form of NAIVE_BARE_PROMPT: same bare framing, many items per call.
+ *
+ * Exists so the baseline's call shape matches a pipeline that groups rows into
+ * one call. Comparing a batched pipeline against a one-row-per-call baseline
+ * confounds the prompt with the call shape.
+ *
+ * @param {{ rowIndex: number, formal: string, informal: string }[]} items
+ * @param {string} [langKey] - language preset, see langOf
+ * @param {string} [context] - schema shared by every item in the call
+ */
+export function NAIVE_BARE_BATCH_PROMPT(items, langKey, context) {
+  const L = langOf(langKey);
+  const contextBlock = context
+    ? `\n## Schema\n\nEvery ${L.item} below runs against this schema.\n\n\`\`\`${L.fence}\n${context}\n\`\`\`\n`
+    : '';
+
+  const itemList = items.map((it) => `### Item ${it.rowIndex}
+
+Requirement: ${it.informal}
+
+\`\`\`${L.fence}
+${it.formal}
+\`\`\``).join('\n\n');
+
+  return `${contextBlock}
+## Items
+
+${itemList}
+
+For each item, does the ${L.item} satisfy the requirement? Answer YES or NO.
+
+Call the record_bare_verdicts tool, once, with one entry per item.`;
+}

@@ -1,0 +1,10 @@
+{
+  "name": "claimcheck-artifact",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Benchmark data, construction scripts and evaluation harness for the spec-faithfulness paper",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}
