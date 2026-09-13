@@ -1,0 +1,3283 @@
+{
+  "chunk-3": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 7615,
+    "cost": 0.00549975,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-1": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 8581,
+    "cost": 0.00634875,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-0": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 9105,
+    "cost": 0.00669825,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-2": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 9937,
+    "cost": 0.007515,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-4": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 4647,
+    "cost": 0.0026565,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-5": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 40617,
+    "cost": 0.03507825,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-7": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 41296,
+    "cost": 0.03602025,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-8": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 40510,
+    "cost": 0.037101,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-11": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 12726,
+    "cost": 0.0109065,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-12": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 6643,
+    "cost": 0.0053535,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-10": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 21804,
+    "cost": 0.01891125,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-9": {
+    "predictions": [
+      true,
+      null,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 25484,
+    "cost": 0.02495475,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 34,
+      "rawToolArgs": "{\"comparisons\":[{\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query faithfully returns distinct car models produced after 1980.\",\"lemmaName\":\"car_1__q138__control__where_to_on_inner\",\"requirementIndex\":0,\"match\":true},{\"explanation\":\"The query faithfully returns European countries with at least 3 car makers.\",\"weakeningType\":\"none\",\"discrepancy\":\"\",\"lemmaName\":\"car_1__q806__control__commute_eq\",\"requirementIndex\":2,\"match\":true},{\"discrepancy\":\"The query filters for COUNT(*) < 3 car makers instead of more than 3 car makers (> 3).\",\"requirementIndex\":3,\"explanation\":\"The comparison operator was flipped from > 3 to < 3.\",\"match\":false,\"lemmaName\":\"car_1__q653__semantic__flip_comparison\",\"weakeningType\":\"wrong-property\"},{\"requirementIndex\":4,\"weakeningType\":\"none\",\"match\":true,\"discrepancy\":\"\",\"lemmaName\":\"car_1__q1044__original__none\",\"explanation\":\"The query faithfully returns models weighing less than 3500 not made by Ford Motor Company.\"},{\"weakeningType\":\"none\",\"lemmaName\":\"car_1__q487__control__count_star_to_one\",\"match\":true,\"requirementIndex\":5,\"explanation\":\"The query faithfully returns country IDs and names that have > 3 car makers or produce fiat models.\",\"discrepancy\":\"\"},{\"match\":false,\"requirementIndex\":6,\"discrepancy\":\"The query checks for acceleration less than the most powerful car instead of greater than.\",\"explanation\":\"The comparison operator < was used instead of >.\",\"lemmaName\":\"car_1__q228__semantic__flip_comparison\",\"weakeningType\":\"wrong-property\"},{\"discrepancy\":\"The query filters for at most 2 models (<= 2) instead of at least 2 models (>= 2).\",\"weakeningType\":\"wrong-property\",\"match\":false,\"explanation\":\"The comparison operator was flipped to <= 2.\",\"requirementIndex\":7,\"lemmaName\":\"car_1__q1165__semantic__flip_comparison\"},{\"discrepancy\":\"The query counts all cars in the table without the acceleration and horsepower comparison conditions.\",\"explanation\":\"WHERE clause conditions were dropped completely.\",\"requirementIndex\":8,\"...[truncated]"
+    }
+  },
+  "chunk-6": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 34562,
+    "cost": 0.02886555,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-14": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 18066,
+    "cost": 0.0156795,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-15": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 17048,
+    "cost": 0.01355775,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-13": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 20217,
+    "cost": 0.01737075,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-18": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 4497,
+    "cost": 0.003183,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-19": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 5047,
+    "cost": 0.003483,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-17": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 7538,
+    "cost": 0.0067965,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-16": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 12956,
+    "cost": 0.011169,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-20": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 8554,
+    "cost": 0.00666,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-22": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 8617,
+    "cost": 0.006495,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-23": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 5811,
+    "cost": 0.004152,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-21": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 11938,
+    "cost": 0.0088545,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-24": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 5113,
+    "cost": 0.00305775,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-27": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 12696,
+    "cost": 0.01077075,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-28": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 13036,
+    "cost": 0.01023975,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-25": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 16824,
+    "cost": 0.01370325,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-30": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 4161,
+    "cost": 0.0028125,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-26": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 20145,
+    "cost": 0.015465,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-29": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 12893,
+    "cost": 0.00947775,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-31": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      null,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 29943,
+    "cost": 0.027456,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 36,
+      "rawToolArgs": "{\"comparisons\":[{\"match\":true,\"explanation\":\"The query correctly counts the number of professionals who do not have any treatments in the Treatments table.\",\"discrepancy\":\"\",\"requirementIndex\":0,\"weakeningType\":\"none\",\"lemmaName\":\"dog_kennels__q167__control__count_star_to_one\"},{\"explanation\":\"The WHERE clause filtering for the youngest dog was dropped, so it returns all owners who own dogs.\",\"discrepancy\":\"The query omits the condition selecting the owner of the youngest dog, returning all owners with dogs instead.\",\"lemmaName\":\"dog_kennels__q1219__semantic__drop_where_conjunct\",\"weakeningType\":\"weakened-postcondition\",\"requirementIndex\":1,\"match\":false},{\"lemmaName\":\"dog_kennels__q100__original__none\",\"explanation\":\"The query correctly finds the professionals who have no records in the Treatments table.\",\"discrepancy\":\"\",\"match\":true,\"requirementIndex\":2,\"weakeningType\":\"none\"},{\"lemmaName\":\"dog_kennels__q1034__original__none\",\"weakeningType\":\"none\",\"requirementIndex\":3,\"explanation\":\"The query correctly computes the set of first names from Professionals and Owners minus the dog names.\",\"discrepancy\":\"\",\"match\":true},{\"match\":true,\"weakeningType\":\"none\",\"lemmaName\":\"dog_kennels__q1142__original__none\",\"discrepancy\":\"\",\"explanation\":\"The query correctly finds the intersection of states where owners and professionals live.\",\"requirementIndex\":4},{\"requirementIndex\":5,\"match\":false,\"weakeningType\":\"wrong-property\",\"discrepancy\":\"\",\"explanation\":\"The query orders ascending (ASC) instead of descending (DESC), finding the owner with the lowest total spending instead of the largest.\",\"lemmaName\":\"dog_kennels__q110__semantic__flip_order\"},{\"weakeningType\":\"none\",\"discrepancy\":\"\",\"explanation\":\"The query correctly finds the states where both owners and professionals live via set intersection.\",\"lemmaName\":\"dog_kennels__q1189__original__none\",\"match\":true,\"requirementIndex\":6},{\"match\":false,\"weakeningType\":\"wrong-property\",\"discrepancy\":\"\",\"explanation\":\"The query uses MAX...[truncated]"
+    }
+  },
+  "chunk-33": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      null
+    ],
+    "latencyMs": 26769,
+    "cost": 0.02367375,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 30,
+      "rawToolArgs": "{\"comparisons\":[{\"explanation\":\"The query accurately counts professionals who do not appear in the Treatments table, matching the requirement.\",\"lemmaName\":\"dog_kennels__q000__original__none\",\"weakeningType\":\"none\",\"discrepancy\":\"\",\"requirementIndex\":0,\"match\":true},{\"requirementIndex\":1,\"explanation\":\"The requirement asks for the owner of the youngest dog, but the query filters for MAX(age).\",\"weakeningType\":\"wrong-property\",\"match\":false,\"lemmaName\":\"dog_kennels__q475__control__commute_eq\",\"discrepancy\":\"The query finds owners of dogs with the maximum age (oldest) instead of the youngest dog (minimum age).\"},{\"lemmaName\":\"dog_kennels__q692__semantic__bump_limit\",\"requirementIndex\":2,\"match\":false,\"explanation\":\"The query specifies LIMIT 2 instead of returning only the top owner.\",\"weakeningType\":\"weakened-postcondition\",\"discrepancy\":\"The query returns the top 2 owners instead of the single owner who paid the most.\"},{\"lemmaName\":\"dog_kennels__q506__semantic__swap_aggregate\",\"weakeningType\":\"none\",\"match\":true,\"explanation\":\"The query accurately finds the last name of the owner of the youngest dog using MIN(age).\",\"requirementIndex\":3,\"discrepancy\":\"\"},{\"lemmaName\":\"dog_kennels__q1256__control__count_star_to_one\",\"discrepancy\":\"\",\"match\":true,\"requirementIndex\":4,\"weakeningType\":\"none\",\"explanation\":\"The query counts dogs with age below the average age across all dogs, matching the requirement.\"},{\"requirementIndex\":5,\"weakeningType\":\"missing-case\",\"discrepancy\":\"The query returns all professionals instead of filtering for those living in Indiana before taking the union.\",\"match\":false,\"explanation\":\"The WHERE state = 'Indiana' condition was dropped from the first branch of the union.\",\"lemmaName\":\"dog_kennels__q444__semantic__drop_where_conjunct\"},{\"weakeningType\":\"wrong-property\",\"explanation\":\"The HAVING condition uses < 2 instead of > 2.\",\"lemmaName\":\"dog_kennels__q1184__semantic__flip_comparison\",\"match\":false,\"requirementIndex\":6,\"discrepancy\":\"The query fil...[truncated]"
+    }
+  },
+  "chunk-34": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 23858,
+    "cost": 0.020133,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-32": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 32169,
+    "cost": 0.0274095,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-38": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 7415,
+    "cost": 0.005007,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-37": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 15458,
+    "cost": 0.0092175,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-36": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 25629,
+    "cost": 0.016665,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-39": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 15673,
+    "cost": 0.0129795,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-35": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 28498,
+    "cost": 0.02201625,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-40": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      null,
+      false
+    ],
+    "latencyMs": 15615,
+    "cost": 0.01248225,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 14,
+      "rawToolArgs": "{\"comparisons\":[{\"discrepancy\":\"\",\"requirementIndex\":0,\"weakeningType\":\"none\",\"match\":true,\"explanation\":\"The query correctly retrieves the name of the employee with the maximum bonus value.\",\"lemmaName\":\"employee_hire_evaluation__q003__original__none\"},{\"match\":false,\"explanation\":\"The requirement asks for districts having both stores with < 3000 products and stores with > 10000 products, but the query only checks > 10000 products intersected with all districts.\",\"requirementIndex\":1,\"weakeningType\":\"missing-case\",\"discrepancy\":\"The query drops the requirement of shops having less than 3000 products, only filtering for shops with more than 10000 products.\",\"lemmaName\":\"employee_hire_evaluation__q413__semantic__drop_where_conjunct\"},{\"weakeningType\":\"none\",\"lemmaName\":\"employee_hire_evaluation__q1112__original__none\",\"explanation\":\"The query correctly identifies shop names that have no entries in the hiring table.\",\"match\":true,\"requirementIndex\":2,\"discrepancy\":\"\"},{\"lemmaName\":\"employee_hire_evaluation__q151__control__commute_eq\",\"weakeningType\":\"none\",\"requirementIndex\":3,\"discrepancy\":\"\",\"explanation\":\"The query correctly finds the employee with the highest count of evaluation records.\",\"match\":true},{\"explanation\":\"The query correctly retrieves the name of the shop with the maximum number of hired employees.\",\"lemmaName\":\"employee_hire_evaluation__q856__control__commute_eq\",\"discrepancy\":\"\",\"weakeningType\":\"none\",\"requirementIndex\":4,\"match\":true},{\"discrepancy\":\"\",\"lemmaName\":\"employee_hire_evaluation__q176__original__none\",\"match\":true,\"weakeningType\":\"none\",\"requirementIndex\":5,\"explanation\":\"The query correctly selects shop names where number_products exceeds the average number of products.\"},{\"discrepancy\":\"\",\"match\":true,\"weakeningType\":\"none\",\"requirementIndex\":6,\"lemmaName\":\"employee_hire_evaluation__q182__original__none\",\"explanation\":\"The query correctly finds employees who do not appear in the evaluation table.\"},{\"lemmaName\":\"employee_hire_evaluatio...[truncated]"
+    }
+  },
+  "chunk-41": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 11404,
+    "cost": 0.0100905,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-43": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 10142,
+    "cost": 0.00691875,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-44": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 4422,
+    "cost": 0.00291825,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-42": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 12139,
+    "cost": 0.00912,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-45": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 20453,
+    "cost": 0.0178575,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-48": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 25535,
+    "cost": 0.021327,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-47": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 26067,
+    "cost": 0.0198645,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-49": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 12064,
+    "cost": 0.010386,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-51": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9131,
+    "cost": 0.007038,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-50": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 9771,
+    "cost": 0.007503,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-46": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 40139,
+    "cost": 0.02930475,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-54": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 6582,
+    "cost": 0.0052245,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-53": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 8573,
+    "cost": 0.00662775,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-52": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 14678,
+    "cost": 0.00946125,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-55": {
+    "predictions": [
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 6976,
+    "cost": 0.0050625,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-59": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 13889,
+    "cost": 0.01167975,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-57": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      null,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 18151,
+    "cost": 0.015624,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 18,
+      "rawToolArgs": "{\"comparisons\":[{\"match\":true,\"explanation\":\"The query correctly finds students who do not appear as student_id in Friend.\",\"weakeningType\":\"none\",\"discrepancy\":\"\",\"requirementIndex\":0,\"lemmaName\":\"network_1__q005__original__none\"},{\"weakeningType\":\"none\",\"lemmaName\":\"network_1__q041__original__none\",\"discrepancy\":\"\",\"explanation\":\"The query correctly retrieves the names of friends of the student named Kyle.\",\"match\":true,\"requirementIndex\":1},{\"explanation\":\"The requirement asks for the single grade with the most high schoolers, but the query specifies LIMIT 2.\",\"match\":false,\"lemmaName\":\"network_1__q134__semantic__bump_limit\",\"requirementIndex\":2,\"weakeningType\":\"wrong-property\",\"discrepancy\":\"The query returns the top 2 grades (LIMIT 2) instead of the single grade with the greatest number of high schoolers.\"},{\"weakeningType\":\"none\",\"explanation\":\"The query correctly selects highschoolers with grade > 5 and at least 2 friends.\",\"match\":true,\"lemmaName\":\"network_1__q1248__control__commute_eq\",\"discrepancy\":\"\",\"requirementIndex\":3},{\"explanation\":\"Semantic error with type mismatch/wrong join attribute (liked_id = name).\",\"weakeningType\":\"wrong-property\",\"lemmaName\":\"network_1__q052__semantic__swap_correlation\",\"discrepancy\":\"The join condition in the Likes subquery incorrectly joins Likes.liked_id on Highschooler.name instead of Highschooler.id.\",\"requirementIndex\":4,\"match\":false},{\"lemmaName\":\"network_1__q086__semantic__swap_correlation\",\"weakeningType\":\"wrong-property\",\"requirementIndex\":6,\"discrepancy\":\"The query joins Friend.student_id on Highschooler.grade instead of Highschooler.id.\",\"explanation\":\"Corrupted join condition comparing student_id to grade.\",\"match\":false},{\"lemmaName\":\"network_1__q619__semantic__flip_order\",\"requirementIndex\":7,\"match\":false,\"discrepancy\":\"The query sorts in ascending order, returning the grade with the fewest students instead of the most.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The requirement asks for the grade with ...[truncated]"
+    }
+  },
+  "chunk-58": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 20320,
+    "cost": 0.016623,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-56": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 24631,
+    "cost": 0.02061825,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-60": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9139,
+    "cost": 0.007536,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-61": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 9465,
+    "cost": 0.0076305,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-63": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 8206,
+    "cost": 0.0065205,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-64": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 6590,
+    "cost": 0.00508275,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-62": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 10456,
+    "cost": 0.00846225,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-65": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 4549,
+    "cost": 0.00328275,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-69": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      null,
+      true
+    ],
+    "latencyMs": 15992,
+    "cost": 0.013359,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 12,
+      "rawToolArgs": "{\"comparisons\":[{\"match\":true,\"explanation\":\"The back-translation matches the requirement to find major and age of students without a cat.\",\"requirementIndex\":0,\"discrepancy\":\"\",\"lemmaName\":\"pets_1__q642__control__commute_eq\",\"weakeningType\":\"none\"},{\"explanation\":\"The back-translation matches the requirement to find first names of students with a cat or dog pet.\",\"requirementIndex\":1,\"discrepancy\":\"\",\"match\":true,\"lemmaName\":\"pets_1__q213__semantic__toggle_distinct\",\"weakeningType\":\"none\"},{\"discrepancy\":\"\",\"lemmaName\":\"pets_1__q229__control__reorder_and\",\"explanation\":\"The back-translation matches the requirement to find the last name of the student who owns a 3-year-old cat.\",\"weakeningType\":\"none\",\"requirementIndex\":2,\"match\":true},{\"match\":true,\"explanation\":\"The back-translation matches the requirement to find the last name of the student who owns a 3-year-old cat.\",\"lemmaName\":\"pets_1__q786__control__reorder_and\",\"discrepancy\":\"\",\"requirementIndex\":3,\"weakeningType\":\"none\"},{\"weakeningType\":\"wrong-property\",\"discrepancy\":\"The query contains a forward reference syntax error by referencing table alias T3 in the ON clause before T3 is joined/defined.\",\"requirementIndex\":4,\"lemmaName\":\"pets_1__q048__control__where_to_on_inner\",\"explanation\":\"The query has an invalid ON clause referencing an undeclared table alias T3, leading to undefined or error behavior.\",\"match\":false},{\"match\":true,\"lemmaName\":\"pets_1__q309__original__none\",\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The back-translation matches the requirement to find the first name and age of students who own a dog but not a cat.\",\"requirementIndex\":5},{\"requirementIndex\":6,\"weakeningType\":\"wrong-property\",\"explanation\":\"The query returns an extra column (age) not requested by the requirement.\",\"match\":false,\"lemmaName\":\"pets_1__q698__semantic__toggle_distinct\",\"discrepancy\":\"The requirement only asks for the first name of every student, but the query returns both first name and age.\"},{\"explanat...[truncated]"
+    }
+  },
+  "chunk-67": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 22191,
+    "cost": 0.018738,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-71": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 5818,
+    "cost": 0.00391575,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-66": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 36154,
+    "cost": 0.02599275,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-68": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 36652,
+    "cost": 0.0285555,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-72": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 9512,
+    "cost": 0.007308,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-70": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 25209,
+    "cost": 0.01806525,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-74": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 7960,
+    "cost": 0.00567825,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-75": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 8635,
+    "cost": 0.00619725,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-73": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 10994,
+    "cost": 0.0084495,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-76": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 5065,
+    "cost": 0.0031215,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-77": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 4048,
+    "cost": 0.0026265,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-78": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 3188,
+    "cost": 0.0023895,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-79": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 4066,
+    "cost": 0.002484,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-80": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 4770,
+    "cost": 0.002652,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-81": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 6289,
+    "cost": 0.003642,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-82": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 8160,
+    "cost": 0.0061635,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-83": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 7748,
+    "cost": 0.0057285,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-85": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 4126,
+    "cost": 0.00267825,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-84": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 7907,
+    "cost": 0.0057075,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-86": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 28554,
+    "cost": 0.025899,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-89": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 28403,
+    "cost": 0.025362,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-87": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 31242,
+    "cost": 0.025944,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-91": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 4726,
+    "cost": 0.00417,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-88": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 41113,
+    "cost": 0.0315615,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-92": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 13699,
+    "cost": 0.011151,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-93": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 15519,
+    "cost": 0.01322325,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-90": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 23566,
+    "cost": 0.02274825,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-95": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 9004,
+    "cost": 0.00757575,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-96": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 5306,
+    "cost": 0.00411975,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-97": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 4205,
+    "cost": 0.00343425,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-94": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 14310,
+    "cost": 0.01124625,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-98": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 6912,
+    "cost": 0.00540075,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-99": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 6780,
+    "cost": 0.0050835,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-100": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 7070,
+    "cost": 0.00477225,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-103": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 3516,
+    "cost": 0.0023715,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-101": {
+    "predictions": [
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 10183,
+    "cost": 0.00677475,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-102": {
+    "predictions": [
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 6931,
+    "cost": 0.0054435,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-107": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 42836,
+    "cost": 0.03538125,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-106": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 40145,
+    "cost": 0.02976015,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-110": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 9513,
+    "cost": 0.00753525,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-109": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 18317,
+    "cost": 0.01544325,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-112": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 15491,
+    "cost": 0.01338375,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-111": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 16675,
+    "cost": 0.01032975,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-113": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 17793,
+    "cost": 0.014289,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-116": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 5872,
+    "cost": 0.00429075,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-114": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 15214,
+    "cost": 0.01398525,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-117": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 6514,
+    "cost": 0.004704,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-115": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 21678,
+    "cost": 0.01745925,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-104": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 46218,
+    "cost": 0.032401425,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-105": {
+    "predictions": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "latencyMs": 0,
+    "cost": null,
+    "error": "openrouter google/gemini-3.7-flash: overloaded (no tool_call despite forced tool_choice) -- {\"id\":\"gen-1788867370-B0rxJDRlHlk88Xf2jkYE\",\"object\":\"chat.completion\",\"created\":1788867370,\"model\":\"google/gemini-3.7-flash\",\"provider\":\"Google\",\"system_fingerprint\":null,\"service_tier\":\"default\",\"choices\":[{\"index\":0,\"logprobs\":null,\"finish_reason\":\"length\",\"native_finish_reason\":\"MAX_TOKENS\",\"message\":{\"role\":\"assistant\",\"content\":null,\"refusal\":null,\"reasoning\":\"**Processing Pair Example**\\n\\nI've begun by dissecting the first pair, focusing on how the request for an Asian country's largest area maps to the SQL query’s `Continent = \\\"Asia\\\"`, `ORDER BY SurfaceArea DESC`, and `LIMIT 1` clauses. The output fields `Name`, `Population`, and `LifeExpectancy` also align perfectly with the prompt.\\n\\n**Analyzing Query-Request Pairs**\\n\\nI'm currently scrutinizing the second and third pairs. For pair two, I’ve identified a mismatch: the request seeks a total count of countries with the highest Spanish-speaking percentage, while the query aggregates by country code, returning counts and max percentages per country. Pair three remains incomplete in the provided thoughts.\\n\\n**Evaluating Query Discrepancies**\\n\\nI'm now focusing on the fourth and fifth pairs. I've noted that the fourth pair's query returns the top two countries instead of the single nation requested, and for the fifth pair, I'm analyzing the interpretation of \\\"greater than any country in Europe\\\" and its potential SQL translation.\\n\\n**Refining Logic Interpretation**\\n\\nI'm revisiting the interpretation of \\\"greater than any country in Europe.\\\" While my initial thought was MAX, the query uses MIN. I'm cross-referencing this with other requirements where \\\"any\\\" implies MAX, suggesting a potential discrepancy in this specific query's logic or the prompt's intent.\\n\\n**Clarifying Ambiguity**\\n\\nI'm re-examining the fifth pair, specifically the interpretation of \\\"greater than any country in Europe.\\\" My initial thought was MAX, but the query uses MIN, which translates to \\\"> ANY\\\" in SQL. This seems to con"
+  },
+  "chunk-108": {
+    "predictions": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "latencyMs": 0,
+    "cost": null,
+    "error": "openrouter google/gemini-3.7-flash: overloaded (no tool_call despite forced tool_choice) -- {\"id\":\"gen-1788867749-IDpQzZqrF8AMSYTH9yrv\",\"object\":\"chat.completion\",\"created\":1788867749,\"model\":\"google/gemini-3.7-flash\",\"provider\":\"Google\",\"system_fingerprint\":null,\"service_tier\":\"default\",\"choices\":[{\"index\":0,\"logprobs\":null,\"finish_reason\":\"length\",\"native_finish_reason\":\"MAX_TOKENS\",\"message\":{\"role\":\"assistant\",\"content\":null,\"refusal\":null,\"reasoning\":\"**Analyzing SQL Pairs**\\n\\nI am currently meticulously examining forty requirement/back-translation pairs for the \\\"world_1\\\" domain. My focus is on the initial pairs, specifically evaluating the accuracy of the first requirement and its corresponding SQL translation to identify any discrepancies or areas for refinement in our understanding of the data.\\n\\n**Evaluating SQL Translation Accuracy**\\n\\nI'm now scrutinizing the translation accuracy for Pair 1, where the query seems to misinterpret the requirement about country counts and language percentages. I'm also looking at Pair 2, noting a discrepancy where the query only counts cities per district without considering population averages.\\n\\n**Refining SQL Interpretation**\\n\\nI'm now investigating Pair 3, where the SQL incorrectly identifies the nation with the fewest languages instead of the greatest. For Pair 4, the query returns all countries, failing to implement the surface area comparison to Europe as requested.\\n\\n**Validating Translation Quality**\\n\\nI'm now reviewing Pair 5, confirming a TRUE match between the requirement and its back-translation for the most common Asian language. Subsequently, I'm assessing Pair 6, where the query correctly identifies countries lacking English as an official language to calculate average life expectancy.\\n\\n**Analyzing Pair 8**\\n\\nI am currently analyzing Pair 8, specifically the logical interpretation of \\\"larger than that of any country in Africa.\\\" My current focus is on whether the query's use of `min()` accurately reflects the requirement, considering the potential ambiguity of \\\"any\\\" in natural languag"
+  }
+}

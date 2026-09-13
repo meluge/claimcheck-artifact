@@ -1,0 +1,2618 @@
+{
+  "config": {
+    "dataset": "clover2",
+    "step": "bare",
+    "n": 362,
+    "seed": null,
+    "chunk": 1
+  },
+  "modelId": "deepseek/deepseek-v4-pro-0813",
+  "claimcheckCommit": "withheld-for-review",
+  "metrics": {
+    "n": 362,
+    "scored": 362,
+    "unparseable": 0,
+    "balancedAccuracy": 0.7977411477411478,
+    "accuracy": 0.7983425414364641,
+    "recallConfirmed": 0.6888888888888889,
+    "recallDisputed": 0.9065934065934066,
+    "predictedConfirmedRate": 0.38950276243093923,
+    "byVariant": {
+      "original": {
+        "n": 62,
+        "nTotal": 62,
+        "accuracy": 0.8064516129032258
+      },
+      "informal_mutation": {
+        "n": 62,
+        "nTotal": 62,
+        "accuracy": 0.8225806451612904
+      },
+      "semantic_mutation": {
+        "n": 120,
+        "nTotal": 120,
+        "accuracy": 0.95
+      },
+      "control_mutation": {
+        "n": 118,
+        "nTotal": 118,
+        "accuracy": 0.6271186440677966
+      }
+    },
+    "byCloverClass": {
+      "ground_truth": {
+        "n": 62,
+        "nTotal": 62,
+        "accuracy": 0.8064516129032258
+      },
+      "C1": {
+        "n": 62,
+        "nTotal": 62,
+        "accuracy": 0.8225806451612904
+      },
+      "C2": {
+        "n": 60,
+        "nTotal": 60,
+        "accuracy": 0.9333333333333333
+      },
+      "C6": {
+        "n": 60,
+        "nTotal": 60,
+        "accuracy": 0.9666666666666667
+      },
+      "control": {
+        "n": 118,
+        "nTotal": 118,
+        "accuracy": 0.6271186440677966
+      }
+    },
+    "latency": {
+      "meanMs": 1660.220994475138,
+      "p50Ms": 1604,
+      "p95Ms": 2055
+    },
+    "totalCost": 0.23037677599999995,
+    "costTracked": true,
+    "untrackedChunks": 0,
+    "constantFloor": {
+      "alwaysConfirmed": 0.4972375690607735,
+      "alwaysDisputed": 0.5027624309392266
+    }
+  },
+  "perRow": [
+    {
+      "id": "clover/dafny/abs",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/abs__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/abs__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/abs__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/all_digits",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/all_digits__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/all_digits__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_append",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_append__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_append__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_append__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_concat",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_concat__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_concat__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_concat__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_copy",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_copy__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_copy__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_copy__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_product",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_product__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_product__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_product__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_sum",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_sum__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_sum__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_sum__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/avg",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/avg__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/avg__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/avg__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/below_zero",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/below_zero__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/below_zero__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/below_zero__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/binary_search",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/binary_search__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/binary_search__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/binary_search__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/bubble_sort",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/bubble_sort__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/bubble_sort__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/bubble_sort__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/cal_ans",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/cal_ans__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/cal_ans__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/cal_ans__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/cal_sum",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/cal_sum__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/cal_sum__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/cal_sum__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/canyon_search",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/canyon_search__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/canyon_search__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/canyon_search__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/compare",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/compare__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/compare__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/compare__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/convert_map_key",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/convert_map_key__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/convert_map_key__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/convert_map_key__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/copy_part",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/copy_part__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/copy_part__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/copy_part__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/count_lessthan",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/count_lessthan__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/count_lessthan__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/count_lessthan__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/double_array_elements",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/double_array_elements__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/double_array_elements__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/double_quadruple",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/double_quadruple__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/double_quadruple__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/double_quadruple__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/even_list",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/even_list__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/even_list__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/even_list__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/find",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/find__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/find__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/find__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/has_close_elements",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/has_close_elements__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/has_close_elements__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/has_close_elements__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/insert",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/insert__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/insert__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/insert__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/integer_square_root",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/integer_square_root__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/integer_square_root__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/integer_square_root__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/is_even",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/is_even__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/is_even__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/is_palindrome",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/is_palindrome__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/is_palindrome__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/is_palindrome__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search1",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search1__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search1__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search1__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search2",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search2__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search2__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search2__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search3",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search3__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search3__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search3__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/longest_prefix",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/longest_prefix__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/longest_prefix__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/longest_prefix__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/match",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/match__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/match__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/match__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/max_array",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/max_array__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/max_array__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/max_array__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/min_array",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/min_array__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/min_array__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/min_array__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/min_of_two",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/min_of_two__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/min_of_two__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/min_of_two__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/modify_2d_array",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/modify_2d_array__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/modify_2d_array__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/modify_2d_array__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/multi_return",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/multi_return__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/multi_return__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/multi_return__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/online_max",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/online_max__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/online_max__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/online_max__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/only_once",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/only_once__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/only_once__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/only_once__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/quotient",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/quotient__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/quotient__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/quotient__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/remove_front",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/remove_front__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/remove_front__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/remove_front__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/replace",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/replace__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/replace__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/replace__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/return_seven",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/return_seven__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/return_seven__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/reverse",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/reverse__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/reverse__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/reverse__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/rotate",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/rotate__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/rotate__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/rotate__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/selectionsort",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/selectionsort__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/selectionsort__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/selectionsort__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/seq_to_array",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/seq_to_array__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/seq_to_array__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/seq_to_array__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/set_to_seq",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/set_to_seq__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/set_to_seq__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/set_to_seq__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/slope_search",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/slope_search__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/slope_search__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/slope_search__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_arith",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_arith__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_arith__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_arith__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_bitvector",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_bitvector__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_bitvector__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_bitvector__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_in_array",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_in_array__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_in_array__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_in_array__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_sim",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_sim__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_sim__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_sim__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/test_array",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/test_array__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/test_array__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/test_array__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/triple",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/triple__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/triple__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/triple__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/triple2",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/triple2__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/triple2__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/triple2__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/triple3",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/triple3__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/triple3__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/triple3__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/triple4",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/triple4__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/triple4__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/triple4__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/two_sum",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/two_sum__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/two_sum__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/two_sum__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/update_array",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/update_array__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/update_array__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/update_array__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/update_map",
+      "variant": "original",
+      "cloverClass": "ground_truth",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/update_map__C1",
+      "variant": "informal_mutation",
+      "cloverClass": "C1",
+      "expectedMatch": false,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/update_map__C2",
+      "variant": "semantic_mutation",
+      "cloverClass": "C2",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/update_map__C6",
+      "variant": "semantic_mutation",
+      "cloverClass": "C6",
+      "expectedMatch": false,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/abs__ctrl_contrapositive",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/abs__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_concat__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_concat__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_concat__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_copy__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_copy__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_copy__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_copy__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/array_product__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_product__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_product__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_product__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_sum__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_sum__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_sum__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/array_sum__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/below_zero__ctrl_contrapositive",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/below_zero__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/below_zero__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/below_zero__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/below_zero__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/binary_search__ctrl_contrapositive",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/binary_search__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/binary_search__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/binary_search__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/bubble_sort__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/bubble_sort__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/bubble_sort__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/cal_ans__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/canyon_search__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/canyon_search__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/canyon_search__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/compare__ctrl_contrapositive",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/compare__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/convert_map_key__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/convert_map_key__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/copy_part__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/copy_part__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/double_array_elements__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/double_array_elements__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/double_quadruple__ctrl_split_conjunct",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/find__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/find__ctrl_split_conjunct",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/find__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/has_close_elements__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/has_close_elements__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/insert__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/insert__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search1__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search1__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search1__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search2__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search2__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search2__ctrl_split_conjunct",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search2__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search3__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/linear_search3__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search3__ctrl_split_conjunct",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/linear_search3__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/longest_prefix__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/max_array__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/max_array__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/max_array__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/min_array__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/min_array__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/min_array__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/min_of_two__ctrl_contrapositive",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/min_of_two__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/modify_2d_array__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/modify_2d_array__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/modify_2d_array__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/modify_2d_array__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/multi_return__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/online_max__ctrl_contrapositive",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/online_max__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/online_max__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/online_max__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/only_once__ctrl_iff_split",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/remove_front__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/replace__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/replace__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/return_seven__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/reverse__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/reverse__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/rotate__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/rotate__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/rotate__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/rotate__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/selectionsort__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/selectionsort__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/selectionsort__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/slope_search__ctrl_split_conjunct",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/slope_search__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_arith__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_arith__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/swap_bitvector__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_bitvector__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_in_array__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_in_array__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_in_array__ctrl_split_conjunct",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_in_array__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_sim__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/swap_sim__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/test_array__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/test_array__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/test_array__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/test_array__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/two_sum__ctrl_forall_to_not_exists",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/two_sum__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/two_sum__ctrl_split_conjunct",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/two_sum__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": false
+    },
+    {
+      "id": "clover/dafny/update_array__ctrl_bound_shift",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/update_array__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/update_array__ctrl_commute_eq",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    },
+    {
+      "id": "clover/dafny/update_map__ctrl_merge_ensures",
+      "variant": "control_mutation",
+      "cloverClass": "control",
+      "expectedMatch": true,
+      "predictedMatch": true
+    }
+  ]
+}

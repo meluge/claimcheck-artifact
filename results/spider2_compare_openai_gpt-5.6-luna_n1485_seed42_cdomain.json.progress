@@ -1,0 +1,3285 @@
+{
+  "chunk-0": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 4417,
+    "cost": 0.00096495,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-3": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 4426,
+    "cost": 0.00085115,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-4": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 1960,
+    "cost": 0.000377,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-1": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 6404,
+    "cost": 0.00108135,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-2": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 9775,
+    "cost": 0.00149295,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-5": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 20647,
+    "cost": 0.0053173,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-6": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 21401,
+    "cost": 0.0054126,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-7": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 33017,
+    "cost": 0.0065901,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-10": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 12898,
+    "cost": 0.00287645,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-12": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 4365,
+    "cost": 0.0009477,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-9": {
+    "predictions": [
+      true,
+      null,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 20790,
+    "cost": 0.00481335,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 34,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"car_1__q138__control__where_to_on_inner\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The back-translation captures distinct models associated with cars whose year is greater than 1980.\"},{\"requirementIndex\":2,\"lemmaName\":\"car_1__q806__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"It correctly requires European countries and at least three joined car makers.\"},{\"requirementIndex\":3,\"lemmaName\":\"car_1__q653__semantic__flip_comparison\",\"match\":false,\"discrepancy\":\"The first branch uses COUNT(*) < 3, whereas the requirement asks for more than 3 car makers.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The car-maker-count condition is reversed and therefore describes a different set of countries.\"},{\"requirementIndex\":4,\"lemmaName\":\"car_1__q1044__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"It preserves both the weight-below-3500 condition and exclusion of Ford Motor Company, with distinct models.\"},{\"requirementIndex\":5,\"lemmaName\":\"car_1__q487__control__count_star_to_one\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"It correctly expresses more than three makers or production of a fiat model.\"},{\"requirementIndex\":6,\"lemmaName\":\"car_1__q228__semantic__flip_comparison\",\"match\":false,\"discrepancy\":\"The query counts cars with acceleration less than the highest-horsepower car's acceleration, but the requirement asks for acceleration greater than it.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The comparison direction is reversed.\"},{\"requirementIndex\":7,\"lemmaName\":\"car_1__q1165__semantic__flip_comparison\",\"match\":false,\"discrepancy\":\"The first branch requires at most 2 models instead of at least 2 models.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The model-count comparison is reversed; the second branch does represent more than three joined car records.\"},{\"requirementIndex\":8,\"lem...[truncated]"
+    }
+  },
+  "chunk-11": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 6929,
+    "cost": 0.00155615,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-8": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 41926,
+    "cost": 0.0068567,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-13": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 10534,
+    "cost": 0.0024057,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-14": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 11825,
+    "cost": 0.0025002,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-16": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 7150,
+    "cost": 0.00176345,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-15": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 13082,
+    "cost": 0.0021112,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-17": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 4636,
+    "cost": 0.0011269,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-18": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 2711,
+    "cost": 0.00057445,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-19": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 2275,
+    "cost": 0.00053475,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-20": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 6052,
+    "cost": 0.0012486,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-23": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 4739,
+    "cost": 0.00074755,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-22": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 7076,
+    "cost": 0.0010838,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-21": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 7471,
+    "cost": 0.0014359,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-24": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 2676,
+    "cost": 0.000438,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-25": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 8427,
+    "cost": 0.0020997,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-27": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 7863,
+    "cost": 0.0017081,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-28": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 7489,
+    "cost": 0.00170485,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-30": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 3026,
+    "cost": 0.0005586,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-26": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 13563,
+    "cost": 0.00221735,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-29": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 7686,
+    "cost": 0.00137735,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-31": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 20425,
+    "cost": 0.0047652,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-32": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 19885,
+    "cost": 0.0042942,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-34": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 19057,
+    "cost": 0.00362125,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-37": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 3250,
+    "cost": 0.00071545,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-36": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 6719,
+    "cost": 0.00123735,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-35": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 10760,
+    "cost": 0.00242395,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-38": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 3231,
+    "cost": 0.000718,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-33": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      null
+    ],
+    "latencyMs": 27159,
+    "cost": 0.0042334,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 30,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"dog_kennels__q000__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The back-translation accurately describes counting professionals whose IDs do not occur in Treatments.\"},{\"requirementIndex\":1,\"lemmaName\":\"dog_kennels__q475__control__commute_eq\",\"match\":false,\"discrepancy\":\"The query uses MAX(age), whereas the youngest dog requires the minimum age. It also returns all owners tied at that aggregate value rather than necessarily one owner.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"Maximum age denotes oldest, not youngest; the back-translation faithfully describes the erroneous query but not the requirement.\"},{\"requirementIndex\":2,\"lemmaName\":\"dog_kennels__q692__semantic__bump_limit\",\"match\":false,\"discrepancy\":\"The query returns the top 2 owners instead of the single owner with the largest total treatment spending.\",\"weakeningType\":\"weakened-postcondition\",\"explanation\":\"The back-translation accurately identifies the LIMIT 2 behavior, which does not satisfy the singular requirement.\"},{\"requirementIndex\":3,\"lemmaName\":\"dog_kennels__q506__semantic__swap_aggregate\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The back-translation correctly captures selecting owner last names for dogs at the minimum age.\"},{\"requirementIndex\":4,\"lemmaName\":\"dog_kennels__q1256__control__count_star_to_one\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"COUNT(1) and COUNT(*) are equivalent here, and the age-below-average condition is accurately stated.\"},{\"requirementIndex\":5,\"lemmaName\":\"dog_kennels__q444__semantic__drop_where_conjunct\",\"match\":false,\"discrepancy\":\"The query's first UNION branch selects all professionals, omitting the required Indiana-state filter; therefore it returns every professional, not only Indiana professionals or those with more than two treatments.\",\"weakeningType\":\"missing-case\",\"explanation\":\"The back-translation accurately...[truncated]"
+    }
+  },
+  "chunk-39": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 9420,
+    "cost": 0.00209965,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-40": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      null,
+      false
+    ],
+    "latencyMs": 8661,
+    "cost": 0.00183715,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 14,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"employee_hire_evaluation__q003__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query orders joined evaluation records by bonus descending and returns one employee name, matching the employee with the highest one-time bonus.\"},{\"requirementIndex\":1,\"lemmaName\":\"employee_hire_evaluation__q413__semantic__drop_where_conjunct\",\"match\":false,\"discrepancy\":\"The query and back-translation only require a district to have a shop with more than 10000 products; they omit the required existence of a shop with fewer than 3000 products in the same district.\",\"weakeningType\":\"missing-case\",\"explanation\":\"The first INTERSECT operand is all districts and imposes no less-than-3000 condition, so the two-store threshold requirement is not enforced.\"},{\"requirementIndex\":2,\"lemmaName\":\"employee_hire_evaluation__q1112__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query returns shop names whose IDs do not occur in hiring, which expresses that no employees are hired at those shops.\"},{\"requirementIndex\":3,\"lemmaName\":\"employee_hire_evaluation__q151__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Grouping evaluations by employee and ordering by descending count returns the employee with the most evaluation/award records.\"},{\"requirementIndex\":4,\"lemmaName\":\"employee_hire_evaluation__q856__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Grouping hiring rows by shop and ordering by descending count returns the shop name with the largest number of employees.\"},{\"requirementIndex\":5,\"lemmaName\":\"employee_hire_evaluation__q176__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query compares each shop's product count with the average product count over shops and returns qualifying names.\"},{\"requirementIndex\":6,\"lemmaName\":\"employee_hire_evaluat...[truncated]"
+    }
+  },
+  "chunk-44": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 3401,
+    "cost": 0.0005467,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-41": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 11467,
+    "cost": 0.00155275,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-43": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 5298,
+    "cost": 0.00087565,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-42": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 15371,
+    "cost": 0.0013821,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-47": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 12073,
+    "cost": 0.00283085,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-49": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 8526,
+    "cost": 0.00191445,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-45": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 23260,
+    "cost": 0.0041109,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-46": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 25280,
+    "cost": 0.00347825,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-51": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 5979,
+    "cost": 0.001161,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-50": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 8079,
+    "cost": 0.0013927,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-54": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 4071,
+    "cost": 0.000859,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-52": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 8928,
+    "cost": 0.0012939,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-53": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 7220,
+    "cost": 0.0011641,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-55": {
+    "predictions": [
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 5357,
+    "cost": 0.0007809,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-48": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 38023,
+    "cost": 0.00465475,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-57": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      null,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 12287,
+    "cost": 0.00242455,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 18,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"network_1__q005__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query returns Highschooler names excluding names of students appearing as Friend.student_id, exactly identifying students with no outgoing friend relationships.\"},{\"requirementIndex\":1,\"lemmaName\":\"network_1__q041__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query joins Kyle as Friend.student_id and returns the corresponding Friend.friend_id names, matching the requirement.\"},{\"requirementIndex\":2,\"lemmaName\":\"network_1__q134__semantic__bump_limit\",\"match\":false,\"discrepancy\":\"The query returns up to two grades rather than the single grade with the greatest number of students.\",\"weakeningType\":\"weakened-postcondition\",\"explanation\":\"LIMIT 2 changes the requested top-one result to the top two results; ties and the extra grade are not faithful to the requirement.\"},{\"requirementIndex\":3,\"lemmaName\":\"network_1__q1248__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"It filters students above grade 5 and groups their outgoing Friend rows, retaining those with at least two friends.\"},{\"requirementIndex\":4,\"lemmaName\":\"network_1__q052__semantic__swap_correlation\",\"match\":false,\"discrepancy\":\"The Likes-side join compares Likes.liked_id to Highschooler.name instead of Highschooler.id, so it does not correctly identify students who are liked.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The back-translation explicitly identifies the erroneous join; the query therefore fails to express the intended intersection of students with friends and students liked by someone.\"},{\"requirementIndex\":6,\"lemmaName\":\"network_1__q086__semantic__swap_correlation\",\"match\":false,\"discrepancy\":\"The subquery joins Friend.student_id to Highschooler.grade rather than joining the friend/student identifier to Highschooler.id, so it does not test whether a stude...[truncated]"
+    }
+  },
+  "chunk-58": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 12165,
+    "cost": 0.00269215,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-56": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 18070,
+    "cost": 0.00296385,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-60": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 7873,
+    "cost": 0.00155635,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-61": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 6908,
+    "cost": 0.0013772,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-59": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 17343,
+    "cost": 0.0020497,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-64": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 4077,
+    "cost": 0.00080525,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-63": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 5696,
+    "cost": 0.0010949,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-65": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 2315,
+    "cost": 0.0005406,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-62": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 10505,
+    "cost": 0.00137635,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-69": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9611,
+    "cost": 0.00195585,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-67": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 10889,
+    "cost": 0.00236015,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-66": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 12578,
+    "cost": 0.00246255,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-68": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 13613,
+    "cost": 0.00269105,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-71": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 3808,
+    "cost": 0.0005632,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-72": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 6544,
+    "cost": 0.0012643,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-74": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 5494,
+    "cost": 0.0010195,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-73": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 7016,
+    "cost": 0.0013236,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-76": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 2806,
+    "cost": 0.0004936,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-77": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 2486,
+    "cost": 0.00050465,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-70": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 13330,
+    "cost": 0.0014546,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-75": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 5418,
+    "cost": 0.0010192,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-78": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 1957,
+    "cost": 0.00043035,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-79": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 1993,
+    "cost": 0.0004627,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-80": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 2837,
+    "cost": 0.0005567,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-81": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 4269,
+    "cost": 0.00046265,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-83": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 5501,
+    "cost": 0.0010267,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-82": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 5846,
+    "cost": 0.00104735,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-84": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 4479,
+    "cost": 0.0008824,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-85": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 2670,
+    "cost": 0.0004478,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-87": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 17168,
+    "cost": 0.0041996,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-86": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 17386,
+    "cost": 0.0040905,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-91": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 3078,
+    "cost": 0.00073375,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-89": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 20639,
+    "cost": 0.0042309,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-88": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 23304,
+    "cost": 0.0040314,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-92": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9355,
+    "cost": 0.00180985,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-94": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 8234,
+    "cost": 0.0016576,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-93": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 12823,
+    "cost": 0.0019138,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-96": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 4463,
+    "cost": 0.00070495,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-95": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 6814,
+    "cost": 0.0013383,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-97": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 3175,
+    "cost": 0.00061195,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-98": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 4506,
+    "cost": 0.0007938,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-99": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 4794,
+    "cost": 0.00094545,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-100": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 4206,
+    "cost": 0.00084905,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-102": {
+    "predictions": [
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 4033,
+    "cost": 0.0008069,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-103": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 4118,
+    "cost": 0.0004356,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-101": {
+    "predictions": [
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 7263,
+    "cost": 0.00113215,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-90": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 30758,
+    "cost": 0.00500105,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-106": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 27601,
+    "cost": 0.00652505,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-107": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 30961,
+    "cost": 0.00585245,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-104": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 38811,
+    "cost": 0.00758835,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-110": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 6060,
+    "cost": 0.00116985,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-105": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 45138,
+    "cost": 0.0074834,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-109": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 13210,
+    "cost": 0.00271745,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-111": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 5803,
+    "cost": 0.0011087,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-112": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 11209,
+    "cost": 0.0024649,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-113": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 11504,
+    "cost": 0.0024655,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-108": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 29680,
+    "cost": 0.00557215,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-114": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 9628,
+    "cost": 0.0022334,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-116": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 3402,
+    "cost": 0.0006781,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-117": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 4210,
+    "cost": 0.0007542,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-115": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 10311,
+    "cost": 0.00219165,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "openai/gpt-5.6-luna",
+        "model": "openai/gpt-5.6-luna",
+        "provider": "OpenAI"
+      }
+    ],
+    "missingInformalizations": null
+  }
+}

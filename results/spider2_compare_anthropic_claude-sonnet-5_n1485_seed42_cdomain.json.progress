@@ -1,0 +1,3306 @@
+{
+  "chunk-0": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 7327,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-3": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 8871,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-1": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 10607,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-4": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 4238,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-2": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 12272,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-7": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 35757,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-5": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 39940,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-6": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 42804,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-8": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 48385,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-12": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 9292,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-10": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 23589,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-11": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 24296,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-9": {
+    "predictions": [
+      false,
+      null,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 36398,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 34,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"car_1__q138__control__where_to_on_inner\",\"match\":false,\"discrepancy\":\"The SQL has a bug: it joins CAR_NAMES with a condition on T3.year before T3 (CARS_DATA) is joined, which in SQLite would either error or use an undefined/null reference. The back-translation describes the intended semantics (year > 1980) but doesn't note that the actual query is malformed/broken due to referencing T3 before its join, effectively describing the query as if it worked correctly rather than reflecting its actual (broken) join order.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The requirement asks for models produced after 1980, which matches intent, but the query's structural condition placement means the back-translation may not accurately reflect actual execution behavior.\"},{\"requirementIndex\":2,\"lemmaName\":\"car_1__q806__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The back-translation accurately captures the requirement: European countries with at least 3 car makers.\"},{\"requirementIndex\":3,\"lemmaName\":\"car_1__q653__semantic__flip_comparison\",\"match\":false,\"discrepancy\":\"The requirement asks for countries with MORE than 3 car makers OR producing fiat, but the query and back-translation both use 'fewer than 3' (COUNT(*) < 3), which is a flipped comparison that weakens/changes the condition from the original requirement.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The original requirement specifies 'more than 3 car makers' but the query implements 'fewer than 3', a flipped comparison producing a different result set. The back-translation faithfully describes the flipped query but that query doesn't match the requirement.\"},{\"requirementIndex\":4,\"lemmaName\":\"car_1__q1044__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Matches the requirement: models lighter than 3500 and not built by Ford Motor Company.\"},{\"requirementIndex\":5,\"lemmaName\":\"car_...[truncated]"
+    }
+  },
+  "chunk-13": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 16924,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-14": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 20374,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-16": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 10982,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-17": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 8081,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-15": {
+    "predictions": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "latencyMs": 17830,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 14,
+      "chunkSize": 14,
+      "rawToolArgs": "{\"comparisons\":\"[\\n{\\n\\\"requirementIndex\\\": 0,\\n\\\"lemmaName\\\": \\\"concert_singer__q052__original__none\\\",\\n\\\"match\\\": true,\\n\\\"discrepancy\\\": \\\"\\\",\\n\\\"weakeningType\\\": \\\"none\\\",\\n\\\"explanation\\\": \\\"The back-translation accurately captures the requirement: stadiums that did not have a concert in 2014, using EXCEPT with proper join.\\\"\\n},\\n{\\n\\\"requirementIndex\\\": 1,\\n\\\"lemmaName\\\": \\\"concert_singer__q889__semantic__drop_where_conjunct\\\",\\n\\\"match\\\": false,\\n\\\"discrepancy\\\": \\\"The requirement asks for the count of concerts specifically in the stadium with the highest capacity, but the query counts ALL concerts in the concert table, dropping the WHERE clause restricting to the highest-capacity stadium.\\\",\\n\\\"weakeningType\\\": \\\"narrowed-scope\\\",\\n\\\"explanation\\\": \\\"The query lost the filtering condition that restricts to the highest capacity stadium, resulting in a count over all concerts rather than just those in the specific stadium.\\\"\\n},\\n{\\n\\\"requirementIndex\\\": 2,\\n\\\"lemmaName\\\": \\\"concert_singer__q034__semantic__swap_aggregate\\\",\\n\\\"match\\\": false,\\n\\\"discrepancy\\\": \\\"The requirement asks for singers above the AVERAGE age, but the query compares age against the SUM of all ages, which is a logically impossible condition (always returns empty result).\\\",\\n\\\"weakeningType\\\": \\\"wrong-property\\\",\\n\\\"explanation\\\": \\\"SUM was swapped for AVG, changing the semantics entirely and making the condition trivially unsatisfiable, which the back-translation itself acknowledges as 'trivial' strength.\\\"\\n},\\n{\\n\\\"requirementIndex\\\": 3,\\n\\\"lemmaName\\\": \\\"concert_singer__q891__semantic__bump_limit\\\",\\n\\\"match\\\": false,\\n\\\"discrepancy\\\": \\\"The requirement asks for the single year with the MOST concerts, but the query returns the top 2 years (LIMIT 2 instead of LIMIT 1), potentially including a year that isn't the maximum.\\\",\\n\\\"weakeningType\\\": \\\"weakened-postcondition\\\",\\n\\\"explanation\\\": \\\"The requirement specifies a single 'most' year, but the query returns up to 2 years, weakenin...[truncated]"
+    }
+  },
+  "chunk-19": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 3553,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-18": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 5592,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-23": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 5187,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-20": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 10103,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-24": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 3583,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-22": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 9862,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-21": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 13242,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-28": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 11250,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-25": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 15138,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-27": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 14729,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-30": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 4499,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-26": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 19941,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-29": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 13118,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-32": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 24043,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-31": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      null,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 32940,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 36,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"dog_kennels__q167__control__count_star_to_one\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Query correctly counts professionals not in Treatments, matching requirement.\"},{\"requirementIndex\":1,\"lemmaName\":\"dog_kennels__q1219__semantic__drop_where_conjunct\",\"match\":false,\"discrepancy\":\"Query drops the youngest-dog filter and returns last names of all owners with any dog, not just the owner of the youngest dog.\",\"weakeningType\":\"missing-case\",\"explanation\":\"Requirement asks for owner of youngest dog specifically, but query returns all owners with dogs.\"},{\"requirementIndex\":2,\"lemmaName\":\"dog_kennels__q100__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Query correctly returns professionals with no treatments and their id/role/email.\"},{\"requirementIndex\":3,\"lemmaName\":\"dog_kennels__q1034__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Query matches requirement of names in Professionals/Owners not in Dogs.\"},{\"requirementIndex\":4,\"lemmaName\":\"dog_kennels__q1142__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Query correctly intersects states from Owners and Professionals.\"},{\"requirementIndex\":5,\"lemmaName\":\"dog_kennels__q110__semantic__flip_order\",\"match\":false,\"discrepancy\":\"Requirement asks for owner who paid the LARGEST amount, but query orders ascending and returns owner with MINIMUM total treatment cost.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"Order flipped from DESC to ASC changes semantics from max to min.\"},{\"requirementIndex\":6,\"lemmaName\":\"dog_kennels__q1189__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correct intersection of states.\"},{\"requirementIndex\":7,\"lemmaName\":\"dog_kennels__q1252__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Query correctly finds owner of dog(s) with max age.\"},{...[truncated]"
+    }
+  },
+  "chunk-33": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      null
+    ],
+    "latencyMs": 29963,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 30,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"dog_kennels__q000__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly counts professionals not in Treatments, matching the requirement.\"},{\"requirementIndex\":1,\"lemmaName\":\"dog_kennels__q475__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly finds owners of dogs with max age; matches requirement of youngest... wait age max means oldest, but this is flagged as control commute_eq meaning equivalent rewrite - checking semantics: MAX(age) finds oldest not youngest, but requirement asks youngest. However since query itself uses MAX and is labeled control (should be equivalent), the back-translation faithfully describes what the query computes, which is what we're checking - so it matches the query, but original requirement wants youngest (MIN). This is a mismatch.\"},{\"requirementIndex\":2,\"lemmaName\":\"dog_kennels__q692__semantic__bump_limit\",\"match\":false,\"discrepancy\":\"Requirement asks for the single owner who paid the most; query returns top 2 owners due to LIMIT 2, which the back-translation correctly identifies but this is a weakening of the original singular requirement.\",\"weakeningType\":\"weakened-postcondition\",\"explanation\":\"Original asks for THE owner with largest total; LIMIT 2 returns two owners instead of one, weakening the postcondition to a broader set.\"},{\"requirementIndex\":3,\"lemmaName\":\"dog_kennels__q506__semantic__swap_aggregate\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly finds owner of youngest dog using MIN(age), matching requirement.\"},{\"requirementIndex\":4,\"lemmaName\":\"dog_kennels__q1256__control__count_star_to_one\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly counts dogs with age below average.\"},{\"requirementIndex\":5,\"lemmaName\":\"dog_kennels__q444__semantic__drop_where_conjunct\",\"match\":false,\"discrepancy\":\"Requirement specifies professionals...[truncated]"
+    }
+  },
+  "chunk-37": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 5650,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-36": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 7809,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-34": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 32688,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-38": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 4912,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-35": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 20616,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-41": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 10455,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-40": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      null,
+      false
+    ],
+    "latencyMs": 12281,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 14,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"employee_hire_evaluation__q003__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Query correctly finds employee with max bonus, matches requirement.\"},{\"requirementIndex\":1,\"lemmaName\":\"employee_hire_evaluation__q413__semantic__drop_where_conjunct\",\"match\":false,\"discrepancy\":\"The original requirement requires districts with BOTH shops having <3000 products AND shops having >10000 products. The query only checks for districts with >10000 products (dropped the <3000 condition), effectively just returning all districts with shops >10000 products since intersecting all districts with that subset yields the subset itself. This misses the first condition entirely.\",\"weakeningType\":\"missing-case\",\"explanation\":\"The WHERE clause conjunct for <3000 products was dropped, so only one of the two required conditions is checked.\"},{\"requirementIndex\":2,\"lemmaName\":\"employee_hire_evaluation__q1112__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Matches requirement: shops with no employees hired.\"},{\"requirementIndex\":3,\"lemmaName\":\"employee_hire_evaluation__q151__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly finds employee with most evaluation records (awards).\"},{\"requirementIndex\":4,\"lemmaName\":\"employee_hire_evaluation__q856__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly finds shop with most employees.\"},{\"requirementIndex\":5,\"lemmaName\":\"employee_hire_evaluation__q176__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly finds shops with number_products above average.\"},{\"requirementIndex\":6,\"lemmaName\":\"employee_hire_evaluation__q182__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly finds employees with no evaluation records, matching 'never won any award'.\"},{\"requ...[truncated]"
+    }
+  },
+  "chunk-39": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 14862,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-44": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 4612,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-42": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 13769,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-43": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 7416,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-45": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 23105,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-47": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 20961,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-48": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 25133,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-46": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 28936,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-49": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 11363,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-50": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 10270,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-51": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 7992,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-54": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 6783,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-52": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 11122,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-53": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 13065,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-55": {
+    "predictions": [
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 9555,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-57": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      null,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 17034,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 18,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"network_1__q005__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Query correctly finds students not in Friend.student_id, matching 'no friends' requirement.\"},{\"requirementIndex\":1,\"lemmaName\":\"network_1__q041__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly retrieves friends of Kyle via Friend table.\"},{\"requirementIndex\":2,\"lemmaName\":\"network_1__q134__semantic__bump_limit\",\"match\":false,\"discrepancy\":\"Requirement asks for the single grade with the greatest number of high schoolers, but the query returns the top 2 grades due to LIMIT 2, which the back-translation correctly identifies as returning two grades instead of one.\",\"weakeningType\":\"weakened-postcondition\",\"explanation\":\"The back-translation accurately describes the query's behavior (returning 2 grades), but this deviates from the original requirement which asks for a single grade with the greatest count.\"},{\"requirementIndex\":3,\"lemmaName\":\"network_1__q1248__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"Correctly filters grade>5 and groups by student having at least 2 friend entries.\"},{\"requirementIndex\":4,\"lemmaName\":\"network_1__q052__semantic__swap_correlation\",\"match\":false,\"discrepancy\":\"The query has a broken join condition (Likes.liked_id = Highschooler.name), which is a type mismatch causing incorrect/empty results, not the intended 'liked by someone else' semantics. The back-translation correctly flags this as a semantic error, but it does not match the original requirement's intent.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The requirement wants correctly identified liked students, but the query's join condition is broken, producing wrong results; back-translation correctly notes this but it's a mismatch to the requirement.\"},{\"requirementIndex\":6,\"lemmaName\":\"network_1__q086__semantic__swap_correlation\",\"match\":fal...[truncated]"
+    }
+  },
+  "chunk-59": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 12856,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-56": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 22123,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-58": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 18688,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-60": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9144,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-61": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 11501,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-62": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 10562,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-64": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 6340,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-63": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 10884,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-65": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 6041,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-69": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 11135,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-67": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 17791,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-66": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 21672,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-68": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 21020,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-71": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 5295,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-70": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 15078,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-74": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 7921,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-72": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 11337,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-73": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 12398,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-77": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 3158,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-76": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 4232,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-78": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 2189,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-79": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 2489,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-75": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 7917,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-81": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 2577,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-80": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 7035,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-82": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 9455,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-83": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 9916,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-85": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 5314,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-84": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 9695,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-86": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 24490,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-87": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 24733,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-91": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 5210,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-88": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 30167,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-89": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 32941,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-92": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 11320,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-93": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 16446,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-94": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 16947,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-95": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 10830,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-90": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 29305,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-96": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 7495,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-97": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 5105,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-98": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 6788,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-99": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 7671,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-100": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 6462,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-103": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 4549,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-101": {
+    "predictions": [
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9658,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-102": {
+    "predictions": [
+      null,
+      null,
+      null
+    ],
+    "latencyMs": 7733,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 3,
+      "chunkSize": 3,
+      "rawToolArgs": "{\"comparisons\":\"[{\\\"requirementIndex\\\":0,\\\"lemmaName\\\":\\\"voter_1__q746__semantic__flip_order\\\",\\\"match\\\":false,\\\"discrepancy\\\":\\\"Requirement asks for the contestant with the LEAST votes, but the query orders by COUNT(*) DESC and takes LIMIT 1, which returns the contestant with the MOST votes. The back-translation correctly identifies this as 'most votes', which confirms the SQL does not match the original requirement's intent.\\\",\\\"weakeningType\\\":\\\"wrong-property\\\",\\\"explanation\\\":\\\"The original asks for minimum votes, but the SQL (and its accurate back-translation) computes the maximum votes instead — a flipped/wrong property relative to the requirement.\\\"},{\\\"requirementIndex\\\":1,\\\"lemmaName\\\":\\\"voter_1__q924__control__commute_eq\\\",\\\"match\\\":true,\\\"discrepancy\\\":\\\"\\\",\\\"weakeningType\\\":\\\"none\\\",\\\"explanation\\\":\\\"The query groups by area_code and counts votes joined via state, matching the requirement of finding the area code with most voters. The back-translation faithfully describes this, aside from a minor phrasing quirk about 'state' vs 'area_code' which is inconsequential since area_code determines state uniquely in this schema context.\\\"},{\\\"requirementIndex\\\":2,\\\"lemmaName\\\":\\\"voter_1__q023__semantic__drop_where_conjunct\\\",\\\"match\\\":false,\\\"discrepancy\\\":\\\"The requirement asks for area codes where voters voted for BOTH 'Tabatha Gehling' AND 'Kelly Clauss'. The query drops the filter for 'Tabatha Gehling' in the first subquery (selecting all area codes from any vote), and intersects with only the 'Kelly Clauss' filtered set. This effectively just returns area codes for 'Kelly Clauss' votes, missing the 'Tabatha Gehling' condition entirely, as also noted in the back-translation's postcondition equivalence statement.\\\",\\\"weakeningType\\\":\\\"missing-case\\\",\\\"explanation\\\":\\\"The original requires intersection of two specific contestants' voters, but the query only enforces one contestant filter (Kelly Clauss) and effectively selects all area codes for the other side...[truncated]"
+    }
+  },
+  "chunk-107": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 36988,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-104": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 43379,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-105": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 44557,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-106": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 48288,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-110": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 9199,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-109": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 19606,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-111": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 11961,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-112": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 16560,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-113": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 15537,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-114": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 15471,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-116": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 5511,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-108": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 44473,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-117": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 9927,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-115": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 15930,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-sonnet-5",
+        "model": "claude-sonnet-5",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  }
+}

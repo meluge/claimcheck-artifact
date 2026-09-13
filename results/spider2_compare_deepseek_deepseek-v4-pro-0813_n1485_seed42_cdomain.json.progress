@@ -1,0 +1,3292 @@
+{
+  "chunk-3": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 6858,
+    "cost": 0.004363458,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-0": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 7614,
+    "cost": 0.004916604,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-2": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 7823,
+    "cost": 0.00500412,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-1": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 9592,
+    "cost": 0.00572781,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-4": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 2940,
+    "cost": 0.002097018,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-5": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 24337,
+    "cost": 0.021599622,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-7": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 25470,
+    "cost": 0.02128995,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-6": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 29715,
+    "cost": 0.023080662,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-8": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 30269,
+    "cost": 0.02351712,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-12": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 6017,
+    "cost": 0.004339896,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-11": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 9034,
+    "cost": 0.006398766,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-10": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 15184,
+    "cost": 0.01198857,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-9": {
+    "predictions": [
+      true,
+      null,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 22271,
+    "cost": 0.018763206,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 34,
+      "rawToolArgs": "{\"comparisons\": [{\"discrepancy\": \"The back-translation correctly describes the query, but the query itself has a bug: it references T3.year in the ON clause before T3 is joined, which is invalid SQL. However, the intended meaning (distinct models produced after 1980) matches the requirement.\", \"explanation\": \"The back-translation faithfully describes the intended semantics of the query (distinct models with year > 1980), which matches the requirement. The SQL has a join-order issue but the meaning is preserved.\", \"lemmaName\": \"car_1__q138__control__where_to_on_inner\", \"match\": true, \"requirementIndex\": 0, \"weakeningType\": \"none\"}, {\"discrepancy\": \"\", \"explanation\": \"Back-translation matches requirement: European countries with at least 3 car makers.\", \"lemmaName\": \"car_1__q806__control__commute_eq\", \"match\": true, \"requirementIndex\": 2, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement asks for countries with MORE than 3 car makers, but the query uses COUNT(*) < 3 (fewer than 3). This is a flipped comparison.\", \"explanation\": \"The first branch of the UNION uses COUNT(*) < 3 instead of > 3, which is the opposite of the requirement.\", \"lemmaName\": \"car_1__q653__semantic__flip_comparison\", \"match\": false, \"requirementIndex\": 3, \"weakeningType\": \"wrong-property\"}, {\"discrepancy\": \"\", \"explanation\": \"Back-translation matches requirement: distinct models lighter than 3500 and not Ford Motor Company.\", \"lemmaName\": \"car_1__q1044__original__none\", \"match\": true, \"requirementIndex\": 4, \"weakeningType\": \"none\"}, {\"discrepancy\": \"\", \"explanation\": \"Back-translation matches requirement: countries with more than 3 car makers or producing fiat model.\", \"lemmaName\": \"car_1__q487__control__count_star_to_one\", \"match\": true, \"requirementIndex\": 5, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement asks for cars with GREATER accelerate than the car with the most horsepower, but the query uses Accelerate < (less than). This is a flipped comparison.\", \"explanation\": \"T...[truncated]"
+    }
+  },
+  "chunk-13": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 11643,
+    "cost": 0.009308112,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-14": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 11935,
+    "cost": 0.009381042,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-15": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 10441,
+    "cost": 0.008421732,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-18": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 3720,
+    "cost": 0.00270402,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-17": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 6083,
+    "cost": 0.005005242,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-19": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 3302,
+    "cost": 0.002641188,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-16": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 11073,
+    "cost": 0.007804632,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-20": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 7550,
+    "cost": 0.00518925,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-23": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 5165,
+    "cost": 0.00348381,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-22": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 7214,
+    "cost": 0.004685472,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-21": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 9119,
+    "cost": 0.005964552,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-24": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 3436,
+    "cost": 0.002498694,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-28": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 7681,
+    "cost": 0.00653565,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-25": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 12392,
+    "cost": 0.00947529,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-27": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 10242,
+    "cost": 0.007639698,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-26": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 14378,
+    "cost": 0.00960432,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-30": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 4567,
+    "cost": 0.002937396,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-29": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 9795,
+    "cost": 0.00612612,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-32": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 19283,
+    "cost": 0.0152304768,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-34": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 14390,
+    "cost": 0.0109365828,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-31": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      null,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 24825,
+    "cost": 0.01911327,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 36,
+      "rawToolArgs": "{\"comparisons\": [{\"discrepancy\": \"The back-translation matches the requirement exactly.\", \"explanation\": \"Both count professionals who have not performed any treatments.\", \"lemmaName\": \"dog_kennels__q167__control__count_star_to_one\", \"match\": true, \"requirementIndex\": 0, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement asks for the last name of the owner of the youngest dog, but the query returns last names of ALL owners who own at least one dog, without any youngest-dog filtering.\", \"explanation\": \"The query drops the youngest-dog condition entirely.\", \"lemmaName\": \"dog_kennels__q1219__semantic__drop_where_conjunct\", \"match\": false, \"requirementIndex\": 1, \"weakeningType\": \"missing-case\"}, {\"discrepancy\": \"The back-translation matches the requirement exactly.\", \"explanation\": \"Both return id, role, and email of professionals who never performed treatments.\", \"lemmaName\": \"dog_kennels__q100__original__none\", \"match\": true, \"requirementIndex\": 2, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The back-translation matches the requirement exactly.\", \"explanation\": \"Both return first names in Professionals or Owners but not in Dogs.\", \"lemmaName\": \"dog_kennels__q1034__original__none\", \"match\": true, \"requirementIndex\": 3, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The back-translation matches the requirement exactly.\", \"explanation\": \"Both return states appearing in both Owners and Professionals.\", \"lemmaName\": \"dog_kennels__q1142__original__none\", \"match\": true, \"requirementIndex\": 4, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement asks for the owner who paid the LARGEST total amount, but the query orders ascending (ASC) and returns the owner with the MINIMUM total treatment cost.\", \"explanation\": \"The order direction is flipped, returning the minimum instead of maximum.\", \"lemmaName\": \"dog_kennels__q110__semantic__flip_order\", \"match\": false, \"requirementIndex\": 5, \"weakeningType\": \"wrong-property\"}, {\"discrepancy\": \"The back-translation matches the re...[truncated]"
+    }
+  },
+  "chunk-33": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      null
+    ],
+    "latencyMs": 21987,
+    "cost": 0.0153976548,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 30,
+      "rawToolArgs": "{\"comparisons\": [{\"discrepancy\": \"The back-translation matches the requirement exactly.\", \"explanation\": \"The query counts professionals not in Treatments, which matches 'did not operate any treatment on dogs'.\", \"lemmaName\": \"dog_kennels__q000__original__none\", \"match\": true, \"requirementIndex\": 0, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement asks for the youngest dog, but the query uses MAX(age). Since age is a string column, MAX may not correspond to youngest, and even semantically MAX(age) finds the oldest, not youngest.\", \"explanation\": \"The query finds owners of dogs with maximum age, which is the opposite of youngest.\", \"lemmaName\": \"dog_kennels__q475__control__commute_eq\", \"match\": false, \"requirementIndex\": 1, \"weakeningType\": \"wrong-property\"}, {\"discrepancy\": \"The requirement asks for the single owner who paid the most, but the query returns the top 2 owners (LIMIT 2).\", \"explanation\": \"LIMIT 2 returns two owners instead of the single top owner.\", \"lemmaName\": \"dog_kennels__q692__semantic__bump_limit\", \"match\": false, \"requirementIndex\": 2, \"weakeningType\": \"wrong-property\"}, {\"discrepancy\": \"The requirement asks for the youngest dog, but the query uses MIN(age). Since age is a string column, MIN may not correspond to youngest, and semantically MIN(age) finds the smallest age value, not necessarily youngest.\", \"explanation\": \"The query uses MIN(age) which on a string column may not represent youngest dog.\", \"lemmaName\": \"dog_kennels__q506__semantic__swap_aggregate\", \"match\": false, \"requirementIndex\": 3, \"weakeningType\": \"wrong-property\"}, {\"discrepancy\": \"The back-translation matches the requirement.\", \"explanation\": \"COUNT(1) is equivalent to COUNT(*), and the query counts dogs below average age.\", \"lemmaName\": \"dog_kennels__q1256__control__count_star_to_one\", \"match\": true, \"requirementIndex\": 4, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement asks for professionals in Indiana OR with more than 2 treatments. The query returns A...[truncated]"
+    }
+  },
+  "chunk-36": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 6026,
+    "cost": 0.0037243668,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-37": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 4298,
+    "cost": 0.0023858208,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-38": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 4639,
+    "cost": 0.0024508968,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-35": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 11295,
+    "cost": 0.0085018428,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-39": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 12210,
+    "cost": 0.008710086,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-40": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      null,
+      false
+    ],
+    "latencyMs": 11361,
+    "cost": 0.008064936,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 14,
+      "rawToolArgs": "{\"comparisons\": [{\"discrepancy\": \"The requirement asks for the employee who got the highest one-time bonus. The query orders by bonus descending and limits to 1, which returns the employee with the highest bonus. This matches.\", \"explanation\": \"The back-translation faithfully captures the requirement: highest bonus employee name.\", \"lemmaName\": \"employee_hire_evaluation__q003__original__none\", \"match\": true, \"requirementIndex\": 0, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement asks for districts that have BOTH shops with less than 3000 products AND shops with more than 10000 products. The query only checks districts with shops > 10000 products (intersected with all districts), completely dropping the 'less than 3000 products' condition.\", \"explanation\": \"The query drops the 'less than 3000 products' conjunct, so it returns districts that have any shop with >10000 products, not districts that also have a shop with <3000 products.\", \"lemmaName\": \"employee_hire_evaluation__q413__semantic__drop_where_conjunct\", \"match\": false, \"requirementIndex\": 1, \"weakeningType\": \"missing-case\"}, {\"discrepancy\": \"The requirement asks for shops with no employees. The query returns shops whose shop_id is not in hiring, which correctly identifies shops with no employees.\", \"explanation\": \"Back-translation matches the requirement.\", \"lemmaName\": \"employee_hire_evaluation__q1112__original__none\", \"match\": true, \"requirementIndex\": 2, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement asks for the employee who received the most awards in evaluations. The query counts evaluation records per employee and returns the one with the most records. This matches.\", \"explanation\": \"Back-translation matches: employee with most evaluation records.\", \"lemmaName\": \"employee_hire_evaluation__q151__control__commute_eq\", \"match\": true, \"requirementIndex\": 3, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement asks for the shop with the most employees. The query counts hiring reco...[truncated]"
+    }
+  },
+  "chunk-41": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 10369,
+    "cost": 0.006927228,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-42": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 8893,
+    "cost": 0.006084606,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-44": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 3621,
+    "cost": 0.002766852,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-43": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 5155,
+    "cost": 0.003829386,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-45": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 15847,
+    "cost": 0.013282236,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-47": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 15443,
+    "cost": 0.01188759,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-48": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 15296,
+    "cost": 0.012021108,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-46": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 21218,
+    "cost": 0.014728494,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-49": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 9482,
+    "cost": 0.007704774,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-50": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 9123,
+    "cost": 0.005769324,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-51": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9202,
+    "cost": 0.005824302,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-52": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 7080,
+    "cost": 0.00523413,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-53": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 8030,
+    "cost": 0.005431602,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-54": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 6731,
+    "cost": 0.00434214,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-55": {
+    "predictions": [
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 7493,
+    "cost": 0.003989832,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-57": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      null,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 11971,
+    "cost": 0.009495486,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 18,
+      "rawToolArgs": "{\"comparisons\": [{\"discrepancy\": \"The query returns the two grades with the highest counts, not the single grade with the greatest number of highschoolers.\", \"explanation\": \"The requirement asks for the single grade with the most highschoolers, but the query uses LIMIT 2, returning two grades.\", \"lemmaName\": \"network_1__q134__semantic__bump_limit\", \"match\": false, \"requirementIndex\": 2, \"weakeningType\": \"wrong-property\"}, {\"discrepancy\": \"The Likes clause joins on T1.liked_id = T2.name, comparing an id to a name, which is a semantic error. The requirement asks for students who are liked by someone else (liked_id should match id).\", \"explanation\": \"The query has a type mismatch in the Likes join condition, so it does not correctly identify students who are liked.\", \"lemmaName\": \"network_1__q052__semantic__swap_correlation\", \"match\": false, \"requirementIndex\": 4, \"weakeningType\": \"wrong-property\"}, {\"discrepancy\": \"The subquery joins Friend.student_id = Highschooler.grade instead of Highschooler.id, so it does not correctly identify students without friends.\", \"explanation\": \"The requirement asks for the lowest grade of students with no friends, but the query uses a wrong join condition (student_id = grade), producing a semantically incorrect set.\", \"lemmaName\": \"network_1__q086__semantic__swap_correlation\", \"match\": false, \"requirementIndex\": 6, \"weakeningType\": \"wrong-property\"}, {\"discrepancy\": \"The query orders by COUNT(*) ASC and limits to 1, returning the grade with the fewest highschoolers, not the most.\", \"explanation\": \"The requirement asks for the grade with the most highschoolers, but the query returns the minimum count.\", \"lemmaName\": \"network_1__q619__semantic__flip_order\", \"match\": false, \"requirementIndex\": 7, \"weakeningType\": \"wrong-property\"}, {\"discrepancy\": \"The query computes SUM(grade) instead of AVG(grade).\", \"explanation\": \"The requirement asks for the average grade, but the query returns the sum of grades.\", \"lemmaName\": \"network_1__q791__seman...[truncated]"
+    }
+  },
+  "chunk-59": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 10016,
+    "cost": 0.007704774,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-56": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 18788,
+    "cost": 0.012573132,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-58": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 15785,
+    "cost": 0.01150611,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-60": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 8807,
+    "cost": 0.006320226,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-61": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 8273,
+    "cost": 0.005832156,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-62": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 8017,
+    "cost": 0.005568486,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-63": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 6720,
+    "cost": 0.00491436,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-65": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 3633,
+    "cost": 0.002677092,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-64": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 5188,
+    "cost": 0.00384846,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-66": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 10858,
+    "cost": 0.009606564,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-67": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 11778,
+    "cost": 0.00994653,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-69": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9410,
+    "cost": 0.007869708,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-68": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 11168,
+    "cost": 0.009560562,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-71": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 3967,
+    "cost": 0.00278256,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-70": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 9827,
+    "cost": 0.006048702,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-73": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 7590,
+    "cost": 0.005442822,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-72": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 8389,
+    "cost": 0.005418138,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-74": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 4930,
+    "cost": 0.004115496,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-77": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 3245,
+    "cost": 0.002596308,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-76": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 3751,
+    "cost": 0.00249084,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-78": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 3591,
+    "cost": 0.0015375888,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-75": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 6180,
+    "cost": 0.00424677,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-79": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 3099,
+    "cost": 0.0016015428,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-80": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 4157,
+    "cost": 0.0017002788,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-81": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 3919,
+    "cost": 0.0016856928,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-85": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 3647,
+    "cost": 0.002368542,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-82": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 6681,
+    "cost": 0.004547466,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-83": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 6991,
+    "cost": 0.004898652,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-84": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 6034,
+    "cost": 0.004024614,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-86": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 15987,
+    "cost": 0.015347838,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-87": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 16600,
+    "cost": 0.0148254348,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-91": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 3505,
+    "cost": 0.0024823128,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-88": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 20619,
+    "cost": 0.0158352348,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-89": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 23134,
+    "cost": 0.0166015608,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-92": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9820,
+    "cost": 0.007655406,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-93": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 10390,
+    "cost": 0.008023422,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-94": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 11698,
+    "cost": 0.007689066,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-96": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 5454,
+    "cost": 0.003465858,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-95": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 9301,
+    "cost": 0.00623832,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-90": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 24219,
+    "cost": 0.0163255488,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-97": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 4572,
+    "cost": 0.003240336,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-100": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 4822,
+    "cost": 0.003762066,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-98": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 6931,
+    "cost": 0.004289406,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-99": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 6255,
+    "cost": 0.004098666,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-103": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 3159,
+    "cost": 0.002303466,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-101": {
+    "predictions": [
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 7665,
+    "cost": 0.004457706,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-102": {
+    "predictions": [
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 6518,
+    "cost": 0.004051542,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-104": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 32289,
+    "cost": 0.026846094,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-107": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 27733,
+    "cost": 0.0216528048,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-106": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 31866,
+    "cost": 0.0246036648,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-105": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 37187,
+    "cost": 0.0274064208,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-110": {
+    "predictions": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 10567,
+    "cost": 0.0051537948,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-109": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 13915,
+    "cost": 0.0097158468,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-111": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 8893,
+    "cost": 0.0042012168,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-112": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 12134,
+    "cost": 0.009681738,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-114": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 10887,
+    "cost": 0.009119616,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-113": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 14291,
+    "cost": 0.010724076,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-116": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 5386,
+    "cost": 0.003548886,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-117": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 5734,
+    "cost": 0.00357357,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-108": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 38127,
+    "cost": 0.0234289308,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-115": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 13386,
+    "cost": 0.009844428,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  }
+}

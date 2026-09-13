@@ -1,0 +1,1259 @@
+{
+  "chunk-0": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 30590,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-1": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 35289,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-2": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 36699,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-3": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 40787,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-5": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 19072,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-4": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 37709,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-6": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 33191,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-7": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 34794,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-8": {
+    "predictions": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 34568,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-11": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 22864,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-10": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 28875,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-9": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 33767,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-12": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 23559,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-15": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 132324,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-14": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 135808,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-13": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 140014,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-19": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 26051,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-17": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 31429,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-16": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 162341,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-18": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 40366,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google AI Studio"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-20": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 36193,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-21": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 36361,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-23": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 27865,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-22": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 30417,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-26": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 36597,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-24": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 39541,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-25": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 38765,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-27": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 42692,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-28": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 23102,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-29": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 31162,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-31": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 30969,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-30": {
+    "predictions": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 39473,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-32": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 37298,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-33": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 41928,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google AI Studio"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-36": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 13702,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 2
+    }
+  },
+  "chunk-34": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 43946,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 0,
+      "total": 10
+    }
+  },
+  "chunk-35": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      null,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 42721,
+    "cost": null,
+    "served": [
+      {
+        "role": "informalize",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      },
+      {
+        "role": "compare",
+        "modelId": "google/gemini-3.7-flash",
+        "model": "google/gemini-3.7-flash",
+        "provider": "Google"
+      }
+    ],
+    "missingInformalizations": {
+      "missing": 1,
+      "total": 10
+    },
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 10,
+      "rawToolArgs": "{\"comparisons\":[{\"discrepancy\":\"\",\"requirementIndex\":0,\"match\":true,\"explanation\":\"The lemma specifies pairwise sum for two arrays of equal length, exactly matching the requirement.\",\"lemmaName\":\"array_sum\",\"weakeningType\":\"none\"},{\"explanation\":\"The lemma accurately computes the prefix sum array and returns true iff any prefix sum is strictly negative, matching the requirement.\",\"match\":true,\"lemmaName\":\"below_zero__ctrl_forall_to_not_exists\",\"requirementIndex\":1,\"discrepancy\":\"\",\"weakeningType\":\"none\"},{\"requirementIndex\":2,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The lemma correctly specifies the binary search partition index where all elements before n are strictly less than key and all elements from n onward are greater than or equal to key.\",\"lemmaName\":\"binary_search__ctrl_contrapositive\",\"match\":true},{\"weakeningType\":\"weakened-postcondition\",\"discrepancy\":\"The lemma omits the postcondition ensuring that the element at index n is equal to e (a[n] == e) and that 0 <= n. Without this, returning n=0 would always trivially satisfy the postconditions even if a[0] != e.\",\"match\":false,\"lemmaName\":\"linear_search2__C6\",\"explanation\":\"The postcondition only states that elements before n are not equal to e, but fails to ensure that a[n] == e or that n is non-negative.\",\"requirementIndex\":3},{\"discrepancy\":\"\",\"explanation\":\"The lemma correctly ensures that the returned index satisfies the predicate P(a[n]) and that no earlier index satisfies P, matching the requirement.\",\"weakeningType\":\"none\",\"match\":true,\"requirementIndex\":4,\"lemmaName\":\"linear_search3__ctrl_bound_shift\"},{\"requirementIndex\":5,\"explanation\":\"The lemma correctly requires unique inner arrays, preserves outer array references, updates arr[index1][index2] to val, and ensures all other elements are unchanged.\",\"weakeningType\":\"none\",\"discrepancy\":\"\",\"match\":true,\"lemmaName\":\"modify_2d_array__ctrl_merge_ensures\"},{\"discrepancy\":\"The requirement asks for a negative offset, but the lemma requir...[truncated]"
+    }
+  }
+}

@@ -1,0 +1,1812 @@
+{
+  "row-1": {
+    "predictedMatch": false,
+    "latencyMs": 3155,
+    "cost": 0.00085125
+  },
+  "row-0": {
+    "predictedMatch": true,
+    "latencyMs": 3549,
+    "cost": 0.001062
+  },
+  "row-2": {
+    "predictedMatch": false,
+    "latencyMs": 4103,
+    "cost": 0.000966
+  },
+  "row-3": {
+    "predictedMatch": false,
+    "latencyMs": 3024,
+    "cost": 0.00061425
+  },
+  "row-5": {
+    "predictedMatch": false,
+    "latencyMs": 2172,
+    "cost": 0.0008145
+  },
+  "row-6": {
+    "predictedMatch": false,
+    "latencyMs": 2134,
+    "cost": 0.0008535
+  },
+  "row-4": {
+    "predictedMatch": true,
+    "latencyMs": 4779,
+    "cost": 0.00161625
+  },
+  "row-7": {
+    "predictedMatch": true,
+    "latencyMs": 3119,
+    "cost": 0.001194
+  },
+  "row-9": {
+    "predictedMatch": false,
+    "latencyMs": 3591,
+    "cost": 0.00102825
+  },
+  "row-8": {
+    "predictedMatch": false,
+    "latencyMs": 3703,
+    "cost": 0.00162
+  },
+  "row-10": {
+    "predictedMatch": false,
+    "latencyMs": 3858,
+    "cost": 0.001287
+  },
+  "row-12": {
+    "predictedMatch": false,
+    "latencyMs": 2465,
+    "cost": 0.00108375
+  },
+  "row-11": {
+    "predictedMatch": true,
+    "latencyMs": 2985,
+    "cost": 0.0013875
+  },
+  "row-13": {
+    "predictedMatch": false,
+    "latencyMs": 2717,
+    "cost": 0.00102
+  },
+  "row-14": {
+    "predictedMatch": false,
+    "latencyMs": 1815,
+    "cost": 0.00080325
+  },
+  "row-17": {
+    "predictedMatch": false,
+    "latencyMs": 2386,
+    "cost": 0.00080775
+  },
+  "row-15": {
+    "predictedMatch": true,
+    "latencyMs": 4020,
+    "cost": 0.0018645
+  },
+  "row-16": {
+    "predictedMatch": true,
+    "latencyMs": 3074,
+    "cost": 0.00070275
+  },
+  "row-18": {
+    "predictedMatch": false,
+    "latencyMs": 2296,
+    "cost": 0.00074775
+  },
+  "row-19": {
+    "predictedMatch": true,
+    "latencyMs": 3063,
+    "cost": 0.0009885
+  },
+  "row-20": {
+    "predictedMatch": false,
+    "latencyMs": 3127,
+    "cost": 0.00114975
+  },
+  "row-21": {
+    "predictedMatch": false,
+    "latencyMs": 3401,
+    "cost": 0.0009885
+  },
+  "row-22": {
+    "predictedMatch": false,
+    "latencyMs": 2589,
+    "cost": 0.00061725
+  },
+  "row-23": {
+    "predictedMatch": true,
+    "latencyMs": 2954,
+    "cost": 0.001503
+  },
+  "row-25": {
+    "predictedMatch": false,
+    "latencyMs": 2449,
+    "cost": 0.00096225
+  },
+  "row-26": {
+    "predictedMatch": false,
+    "latencyMs": 2568,
+    "cost": 0.000861
+  },
+  "row-24": {
+    "predictedMatch": false,
+    "latencyMs": 3564,
+    "cost": 0.001272
+  },
+  "row-27": {
+    "predictedMatch": true,
+    "latencyMs": 2421,
+    "cost": 0.00082875
+  },
+  "row-29": {
+    "predictedMatch": false,
+    "latencyMs": 2692,
+    "cost": 0.00052575
+  },
+  "row-30": {
+    "predictedMatch": false,
+    "latencyMs": 1547,
+    "cost": 0.000414
+  },
+  "row-28": {
+    "predictedMatch": false,
+    "latencyMs": 3395,
+    "cost": 0.00078
+  },
+  "row-33": {
+    "predictedMatch": false,
+    "latencyMs": 3236,
+    "cost": 0.0013605
+  },
+  "row-32": {
+    "predictedMatch": false,
+    "latencyMs": 3648,
+    "cost": 0.00167625
+  },
+  "row-31": {
+    "predictedMatch": true,
+    "latencyMs": 5027,
+    "cost": 0.00253575
+  },
+  "row-35": {
+    "predictedMatch": true,
+    "latencyMs": 3834,
+    "cost": 0.00145725
+  },
+  "row-34": {
+    "predictedMatch": false,
+    "latencyMs": 4712,
+    "cost": 0.0021135
+  },
+  "row-36": {
+    "predictedMatch": true,
+    "latencyMs": 3574,
+    "cost": 0.0013815
+  },
+  "row-39": {
+    "predictedMatch": true,
+    "latencyMs": 2254,
+    "cost": 0.000801
+  },
+  "row-37": {
+    "predictedMatch": false,
+    "latencyMs": 3723,
+    "cost": 0.00162825
+  },
+  "row-38": {
+    "predictedMatch": false,
+    "latencyMs": 3325,
+    "cost": 0.00099075
+  },
+  "row-42": {
+    "predictedMatch": false,
+    "latencyMs": 2177,
+    "cost": 0.0007185
+  },
+  "row-41": {
+    "predictedMatch": false,
+    "latencyMs": 2545,
+    "cost": 0.00088275
+  },
+  "row-44": {
+    "predictedMatch": false,
+    "latencyMs": 1872,
+    "cost": 0.00052275
+  },
+  "row-40": {
+    "predictedMatch": true,
+    "latencyMs": 5955,
+    "cost": 0.00226425
+  },
+  "row-43": {
+    "predictedMatch": false,
+    "latencyMs": 5038,
+    "cost": 0.002187
+  },
+  "row-45": {
+    "predictedMatch": false,
+    "latencyMs": 2964,
+    "cost": 0.000705
+  },
+  "row-46": {
+    "predictedMatch": false,
+    "latencyMs": 2583,
+    "cost": 0.00072
+  },
+  "row-48": {
+    "predictedMatch": false,
+    "latencyMs": 2381,
+    "cost": 0.00051
+  },
+  "row-47": {
+    "predictedMatch": true,
+    "latencyMs": 2903,
+    "cost": 0.00102825
+  },
+  "row-49": {
+    "predictedMatch": false,
+    "latencyMs": 2472,
+    "cost": 0.000753
+  },
+  "row-50": {
+    "predictedMatch": false,
+    "latencyMs": 2287,
+    "cost": 0.00076425
+  },
+  "row-52": {
+    "predictedMatch": false,
+    "latencyMs": 3375,
+    "cost": 0.00144525
+  },
+  "row-51": {
+    "predictedMatch": true,
+    "latencyMs": 4494,
+    "cost": 0.0025215
+  },
+  "row-53": {
+    "predictedMatch": false,
+    "latencyMs": 3779,
+    "cost": 0.001761
+  },
+  "row-55": {
+    "predictedMatch": true,
+    "latencyMs": 2200,
+    "cost": 0.00090225
+  },
+  "row-54": {
+    "predictedMatch": false,
+    "latencyMs": 3902,
+    "cost": 0.0017265
+  },
+  "row-56": {
+    "predictedMatch": false,
+    "latencyMs": 2921,
+    "cost": 0.0008475
+  },
+  "row-58": {
+    "predictedMatch": false,
+    "latencyMs": 2711,
+    "cost": 0.0007335
+  },
+  "row-57": {
+    "predictedMatch": false,
+    "latencyMs": 3912,
+    "cost": 0.0006105
+  },
+  "row-59": {
+    "predictedMatch": true,
+    "latencyMs": 3995,
+    "cost": 0.00190875
+  },
+  "row-61": {
+    "predictedMatch": false,
+    "latencyMs": 2502,
+    "cost": 0.0009465
+  },
+  "row-60": {
+    "predictedMatch": true,
+    "latencyMs": 4700,
+    "cost": 0.002223
+  },
+  "row-62": {
+    "predictedMatch": false,
+    "latencyMs": 3337,
+    "cost": 0.00118275
+  },
+  "row-65": {
+    "predictedMatch": false,
+    "latencyMs": 2951,
+    "cost": 0.0012345
+  },
+  "row-63": {
+    "predictedMatch": true,
+    "latencyMs": 6119,
+    "cost": 0.003024
+  },
+  "row-64": {
+    "predictedMatch": true,
+    "latencyMs": 5009,
+    "cost": 0.00248625
+  },
+  "row-67": {
+    "predictedMatch": true,
+    "latencyMs": 2858,
+    "cost": 0.000795
+  },
+  "row-66": {
+    "predictedMatch": false,
+    "latencyMs": 3478,
+    "cost": 0.00111675
+  },
+  "row-68": {
+    "predictedMatch": false,
+    "latencyMs": 4442,
+    "cost": 0.0005475
+  },
+  "row-70": {
+    "predictedMatch": false,
+    "latencyMs": 2268,
+    "cost": 0.0006675
+  },
+  "row-69": {
+    "predictedMatch": false,
+    "latencyMs": 2581,
+    "cost": 0.00094425
+  },
+  "row-72": {
+    "predictedMatch": false,
+    "latencyMs": 1962,
+    "cost": 0.00060075
+  },
+  "row-71": {
+    "predictedMatch": true,
+    "latencyMs": 2303,
+    "cost": 0.00080325
+  },
+  "row-73": {
+    "predictedMatch": false,
+    "latencyMs": 2087,
+    "cost": 0.0005295
+  },
+  "row-74": {
+    "predictedMatch": true,
+    "latencyMs": 2245,
+    "cost": 0.0007545
+  },
+  "row-76": {
+    "predictedMatch": false,
+    "latencyMs": 2798,
+    "cost": 0.000828
+  },
+  "row-77": {
+    "predictedMatch": false,
+    "latencyMs": 2690,
+    "cost": 0.00070425
+  },
+  "row-75": {
+    "predictedMatch": false,
+    "latencyMs": 5451,
+    "cost": 0.00221775
+  },
+  "row-80": {
+    "predictedMatch": false,
+    "latencyMs": 3598,
+    "cost": 0.00129225
+  },
+  "row-78": {
+    "predictedMatch": false,
+    "latencyMs": 6860,
+    "cost": 0.003408
+  },
+  "row-79": {
+    "predictedMatch": true,
+    "latencyMs": 5771,
+    "cost": 0.002838
+  },
+  "row-81": {
+    "predictedMatch": false,
+    "latencyMs": 2592,
+    "cost": 0.00102675
+  },
+  "row-82": {
+    "predictedMatch": true,
+    "latencyMs": 3292,
+    "cost": 0.001515
+  },
+  "row-83": {
+    "predictedMatch": false,
+    "latencyMs": 2836,
+    "cost": 0.001167
+  },
+  "row-84": {
+    "predictedMatch": false,
+    "latencyMs": 2560,
+    "cost": 0.0009855
+  },
+  "row-85": {
+    "predictedMatch": false,
+    "latencyMs": 3188,
+    "cost": 0.0013245
+  },
+  "row-87": {
+    "predictedMatch": false,
+    "latencyMs": 2333,
+    "cost": 0.00100725
+  },
+  "row-86": {
+    "predictedMatch": true,
+    "latencyMs": 4703,
+    "cost": 0.00214425
+  },
+  "row-89": {
+    "predictedMatch": false,
+    "latencyMs": 4566,
+    "cost": 0.00207
+  },
+  "row-88": {
+    "predictedMatch": false,
+    "latencyMs": 4899,
+    "cost": 0.001959
+  },
+  "row-90": {
+    "predictedMatch": true,
+    "latencyMs": 3913,
+    "cost": 0.001818
+  },
+  "row-91": {
+    "predictedMatch": true,
+    "latencyMs": 2709,
+    "cost": 0.0014355
+  },
+  "row-92": {
+    "predictedMatch": false,
+    "latencyMs": 3865,
+    "cost": 0.00174075
+  },
+  "row-93": {
+    "predictedMatch": false,
+    "latencyMs": 3212,
+    "cost": 0.001617
+  },
+  "row-94": {
+    "predictedMatch": true,
+    "latencyMs": 2511,
+    "cost": 0.00075225
+  },
+  "row-95": {
+    "predictedMatch": false,
+    "latencyMs": 3249,
+    "cost": 0.000873
+  },
+  "row-96": {
+    "predictedMatch": false,
+    "latencyMs": 3543,
+    "cost": 0.001041
+  },
+  "row-99": {
+    "predictedMatch": false,
+    "latencyMs": 2740,
+    "cost": 0.00078375
+  },
+  "row-98": {
+    "predictedMatch": true,
+    "latencyMs": 4461,
+    "cost": 0.0022365
+  },
+  "row-97": {
+    "predictedMatch": true,
+    "latencyMs": 8065,
+    "cost": 0.0024045
+  },
+  "row-100": {
+    "predictedMatch": false,
+    "latencyMs": 4107,
+    "cost": 0.0012585
+  },
+  "row-101": {
+    "predictedMatch": true,
+    "latencyMs": 3107,
+    "cost": 0.000978
+  },
+  "row-102": {
+    "predictedMatch": false,
+    "latencyMs": 2354,
+    "cost": 0.0006225
+  },
+  "row-103": {
+    "predictedMatch": false,
+    "latencyMs": 2471,
+    "cost": 0.00091275
+  },
+  "row-105": {
+    "predictedMatch": true,
+    "latencyMs": 2666,
+    "cost": 0.001116
+  },
+  "row-104": {
+    "predictedMatch": false,
+    "latencyMs": 4258,
+    "cost": 0.00132075
+  },
+  "row-106": {
+    "predictedMatch": false,
+    "latencyMs": 2579,
+    "cost": 0.00094725
+  },
+  "row-107": {
+    "predictedMatch": false,
+    "latencyMs": 3252,
+    "cost": 0.00079875
+  },
+  "row-108": {
+    "predictedMatch": false,
+    "latencyMs": 2505,
+    "cost": 0.00118725
+  },
+  "row-109": {
+    "predictedMatch": true,
+    "latencyMs": 2613,
+    "cost": 0.00123675
+  },
+  "row-110": {
+    "predictedMatch": false,
+    "latencyMs": 1450,
+    "cost": 0.000393
+  },
+  "row-111": {
+    "predictedMatch": false,
+    "latencyMs": 3992,
+    "cost": 0.00193725
+  },
+  "row-113": {
+    "predictedMatch": true,
+    "latencyMs": 2760,
+    "cost": 0.0009675
+  },
+  "row-112": {
+    "predictedMatch": false,
+    "latencyMs": 3936,
+    "cost": 0.001485
+  },
+  "row-114": {
+    "predictedMatch": true,
+    "latencyMs": 2320,
+    "cost": 0.000849
+  },
+  "row-115": {
+    "predictedMatch": false,
+    "latencyMs": 3575,
+    "cost": 0.00171975
+  },
+  "row-117": {
+    "predictedMatch": true,
+    "latencyMs": 4931,
+    "cost": 0.0022305
+  },
+  "row-118": {
+    "predictedMatch": true,
+    "latencyMs": 3657,
+    "cost": 0.00170475
+  },
+  "row-116": {
+    "predictedMatch": false,
+    "latencyMs": 7357,
+    "cost": 0.00353325
+  },
+  "row-119": {
+    "predictedMatch": false,
+    "latencyMs": 2602,
+    "cost": 0.00131775
+  },
+  "row-120": {
+    "predictedMatch": false,
+    "latencyMs": 3211,
+    "cost": 0.0012165
+  },
+  "row-121": {
+    "predictedMatch": true,
+    "latencyMs": 2997,
+    "cost": 0.000966
+  },
+  "row-122": {
+    "predictedMatch": false,
+    "latencyMs": 2372,
+    "cost": 0.00088875
+  },
+  "row-124": {
+    "predictedMatch": false,
+    "latencyMs": 1670,
+    "cost": 0.00072525
+  },
+  "row-123": {
+    "predictedMatch": false,
+    "latencyMs": 3195,
+    "cost": 0.00094125
+  },
+  "row-126": {
+    "predictedMatch": false,
+    "latencyMs": 1802,
+    "cost": 0.00050625
+  },
+  "row-125": {
+    "predictedMatch": true,
+    "latencyMs": 2811,
+    "cost": 0.00099525
+  },
+  "row-127": {
+    "predictedMatch": false,
+    "latencyMs": 3341,
+    "cost": 0.000705
+  },
+  "row-129": {
+    "predictedMatch": true,
+    "latencyMs": 2410,
+    "cost": 0.00100875
+  },
+  "row-128": {
+    "predictedMatch": false,
+    "latencyMs": 3263,
+    "cost": 0.00102375
+  },
+  "row-130": {
+    "predictedMatch": false,
+    "latencyMs": 1976,
+    "cost": 0.00057375
+  },
+  "row-131": {
+    "predictedMatch": false,
+    "latencyMs": 2567,
+    "cost": 0.00106725
+  },
+  "row-132": {
+    "predictedMatch": false,
+    "latencyMs": 2897,
+    "cost": 0.001116
+  },
+  "row-134": {
+    "predictedMatch": false,
+    "latencyMs": 2622,
+    "cost": 0.0006765
+  },
+  "row-133": {
+    "predictedMatch": true,
+    "latencyMs": 3602,
+    "cost": 0.0011265
+  },
+  "row-135": {
+    "predictedMatch": false,
+    "latencyMs": 2416,
+    "cost": 0.00089325
+  },
+  "row-136": {
+    "predictedMatch": false,
+    "latencyMs": 2348,
+    "cost": 0.00083025
+  },
+  "row-138": {
+    "predictedMatch": false,
+    "latencyMs": 2769,
+    "cost": 0.000945
+  },
+  "row-137": {
+    "predictedMatch": true,
+    "latencyMs": 4244,
+    "cost": 0.0018285
+  },
+  "row-139": {
+    "predictedMatch": false,
+    "latencyMs": 3618,
+    "cost": 0.00153825
+  },
+  "row-140": {
+    "predictedMatch": false,
+    "latencyMs": 3856,
+    "cost": 0.00161025
+  },
+  "row-142": {
+    "predictedMatch": false,
+    "latencyMs": 2006,
+    "cost": 0.000435
+  },
+  "row-141": {
+    "predictedMatch": true,
+    "latencyMs": 3959,
+    "cost": 0.00101625
+  },
+  "row-144": {
+    "predictedMatch": false,
+    "latencyMs": 2536,
+    "cost": 0.00068775
+  },
+  "row-143": {
+    "predictedMatch": false,
+    "latencyMs": 5023,
+    "cost": 0.002262
+  },
+  "row-146": {
+    "predictedMatch": false,
+    "latencyMs": 3737,
+    "cost": 0.0013935
+  },
+  "row-147": {
+    "predictedMatch": false,
+    "latencyMs": 4331,
+    "cost": 0.0018135
+  },
+  "row-149": {
+    "predictedMatch": true,
+    "latencyMs": 3018,
+    "cost": 0.00097425
+  },
+  "row-145": {
+    "predictedMatch": false,
+    "latencyMs": 11502,
+    "cost": 0.00614475
+  },
+  "row-148": {
+    "predictedMatch": false,
+    "latencyMs": 5560,
+    "cost": 0.00290175
+  },
+  "row-150": {
+    "predictedMatch": false,
+    "latencyMs": 2031,
+    "cost": 0.0005655
+  },
+  "row-152": {
+    "predictedMatch": false,
+    "latencyMs": 2112,
+    "cost": 0.00053925
+  },
+  "row-151": {
+    "predictedMatch": false,
+    "latencyMs": 3309,
+    "cost": 0.000714
+  },
+  "row-155": {
+    "predictedMatch": false,
+    "latencyMs": 3380,
+    "cost": 0.0012165
+  },
+  "row-154": {
+    "predictedMatch": true,
+    "latencyMs": 4844,
+    "cost": 0.0017505
+  },
+  "row-153": {
+    "predictedMatch": true,
+    "latencyMs": 6896,
+    "cost": 0.00346425
+  },
+  "row-156": {
+    "predictedMatch": false,
+    "latencyMs": 3541,
+    "cost": 0.001167
+  },
+  "row-157": {
+    "predictedMatch": true,
+    "latencyMs": 3396,
+    "cost": 0.00131475
+  },
+  "row-158": {
+    "predictedMatch": false,
+    "latencyMs": 2845,
+    "cost": 0.000723
+  },
+  "row-160": {
+    "predictedMatch": false,
+    "latencyMs": 2113,
+    "cost": 0.0007155
+  },
+  "row-159": {
+    "predictedMatch": false,
+    "latencyMs": 4609,
+    "cost": 0.001326
+  },
+  "row-162": {
+    "predictedMatch": false,
+    "latencyMs": 2422,
+    "cost": 0.0007125
+  },
+  "row-161": {
+    "predictedMatch": true,
+    "latencyMs": 5216,
+    "cost": 0.001713
+  },
+  "row-164": {
+    "predictedMatch": false,
+    "latencyMs": 2434,
+    "cost": 0.00105
+  },
+  "row-163": {
+    "predictedMatch": false,
+    "latencyMs": 3174,
+    "cost": 0.00117
+  },
+  "row-165": {
+    "predictedMatch": true,
+    "latencyMs": 3032,
+    "cost": 0.00095925
+  },
+  "row-167": {
+    "predictedMatch": false,
+    "latencyMs": 1641,
+    "cost": 0.00044625
+  },
+  "row-166": {
+    "predictedMatch": false,
+    "latencyMs": 3031,
+    "cost": 0.000543
+  },
+  "row-170": {
+    "predictedMatch": false,
+    "latencyMs": 3233,
+    "cost": 0.0008685
+  },
+  "row-169": {
+    "predictedMatch": false,
+    "latencyMs": 4594,
+    "cost": 0.0015735
+  },
+  "row-168": {
+    "predictedMatch": false,
+    "latencyMs": 5164,
+    "cost": 0.001773
+  },
+  "row-171": {
+    "predictedMatch": false,
+    "latencyMs": 2186,
+    "cost": 0.0004785
+  },
+  "row-173": {
+    "predictedMatch": false,
+    "latencyMs": 1842,
+    "cost": 0.000594
+  },
+  "row-172": {
+    "predictedMatch": true,
+    "latencyMs": 3456,
+    "cost": 0.001716
+  },
+  "row-175": {
+    "predictedMatch": false,
+    "latencyMs": 2048,
+    "cost": 0.000795
+  },
+  "row-174": {
+    "predictedMatch": false,
+    "latencyMs": 5172,
+    "cost": 0.002292
+  },
+  "row-178": {
+    "predictedMatch": false,
+    "latencyMs": 2649,
+    "cost": 0.00108675
+  },
+  "row-176": {
+    "predictedMatch": false,
+    "latencyMs": 8977,
+    "cost": 0.0038025
+  },
+  "row-179": {
+    "predictedMatch": false,
+    "latencyMs": 4750,
+    "cost": 0.0014025
+  },
+  "row-180": {
+    "predictedMatch": true,
+    "latencyMs": 3195,
+    "cost": 0.00078525
+  },
+  "row-177": {
+    "predictedMatch": false,
+    "latencyMs": 12036,
+    "cost": 0.00554325
+  },
+  "row-181": {
+    "predictedMatch": false,
+    "latencyMs": 3381,
+    "cost": 0.00084075
+  },
+  "row-183": {
+    "predictedMatch": false,
+    "latencyMs": 2606,
+    "cost": 0.00078825
+  },
+  "row-184": {
+    "predictedMatch": true,
+    "latencyMs": 3544,
+    "cost": 0.001551
+  },
+  "row-185": {
+    "predictedMatch": false,
+    "latencyMs": 2447,
+    "cost": 0.000984
+  },
+  "row-182": {
+    "predictedMatch": false,
+    "latencyMs": 7381,
+    "cost": 0.00326925
+  },
+  "row-186": {
+    "predictedMatch": false,
+    "latencyMs": 2216,
+    "cost": 0.00084675
+  },
+  "row-187": {
+    "predictedMatch": false,
+    "latencyMs": 2663,
+    "cost": 0.00112725
+  },
+  "row-188": {
+    "predictedMatch": true,
+    "latencyMs": 2708,
+    "cost": 0.0014175
+  },
+  "row-189": {
+    "predictedMatch": true,
+    "latencyMs": 3292,
+    "cost": 0.0013845
+  },
+  "row-190": {
+    "predictedMatch": false,
+    "latencyMs": 4010,
+    "cost": 0.00185625
+  },
+  "row-192": {
+    "predictedMatch": true,
+    "latencyMs": 3281,
+    "cost": 0.00091125
+  },
+  "row-191": {
+    "predictedMatch": false,
+    "latencyMs": 4567,
+    "cost": 0.001875
+  },
+  "row-194": {
+    "predictedMatch": false,
+    "latencyMs": 2467,
+    "cost": 0.000741
+  },
+  "row-195": {
+    "predictedMatch": false,
+    "latencyMs": 2657,
+    "cost": 0.00061875
+  },
+  "row-193": {
+    "predictedMatch": false,
+    "latencyMs": 6261,
+    "cost": 0.00282
+  },
+  "row-196": {
+    "predictedMatch": true,
+    "latencyMs": 2543,
+    "cost": 0.00065175
+  },
+  "row-198": {
+    "predictedMatch": false,
+    "latencyMs": 2339,
+    "cost": 0.0007995
+  },
+  "row-199": {
+    "predictedMatch": false,
+    "latencyMs": 2026,
+    "cost": 0.0004275
+  },
+  "row-197": {
+    "predictedMatch": false,
+    "latencyMs": 6236,
+    "cost": 0.00255525
+  },
+  "row-201": {
+    "predictedMatch": false,
+    "latencyMs": 2266,
+    "cost": 0.00080175
+  },
+  "row-200": {
+    "predictedMatch": true,
+    "latencyMs": 2886,
+    "cost": 0.0010965
+  },
+  "row-203": {
+    "predictedMatch": false,
+    "latencyMs": 1801,
+    "cost": 0.00059925
+  },
+  "row-202": {
+    "predictedMatch": false,
+    "latencyMs": 2517,
+    "cost": 0.00069825
+  },
+  "row-204": {
+    "predictedMatch": true,
+    "latencyMs": 3944,
+    "cost": 0.001644
+  },
+  "row-205": {
+    "predictedMatch": false,
+    "latencyMs": 3067,
+    "cost": 0.001167
+  },
+  "row-206": {
+    "predictedMatch": false,
+    "latencyMs": 3117,
+    "cost": 0.00117825
+  },
+  "row-207": {
+    "predictedMatch": false,
+    "latencyMs": 2063,
+    "cost": 0.00074325
+  },
+  "row-208": {
+    "predictedMatch": true,
+    "latencyMs": 2186,
+    "cost": 0.00062325
+  },
+  "row-209": {
+    "predictedMatch": false,
+    "latencyMs": 2495,
+    "cost": 0.0006795
+  },
+  "row-210": {
+    "predictedMatch": false,
+    "latencyMs": 2556,
+    "cost": 0.0007155
+  },
+  "row-211": {
+    "predictedMatch": false,
+    "latencyMs": 2511,
+    "cost": 0.000675
+  },
+  "row-213": {
+    "predictedMatch": false,
+    "latencyMs": 1831,
+    "cost": 0.000576
+  },
+  "row-212": {
+    "predictedMatch": true,
+    "latencyMs": 4331,
+    "cost": 0.00136125
+  },
+  "row-214": {
+    "predictedMatch": false,
+    "latencyMs": 3010,
+    "cost": 0.00098775
+  },
+  "row-215": {
+    "predictedMatch": false,
+    "latencyMs": 3067,
+    "cost": 0.00098025
+  },
+  "row-217": {
+    "predictedMatch": false,
+    "latencyMs": 2017,
+    "cost": 0.00046725
+  },
+  "row-216": {
+    "predictedMatch": true,
+    "latencyMs": 2256,
+    "cost": 0.000624
+  },
+  "row-218": {
+    "predictedMatch": false,
+    "latencyMs": 2091,
+    "cost": 0.00056775
+  },
+  "row-219": {
+    "predictedMatch": false,
+    "latencyMs": 2376,
+    "cost": 0.0005565
+  },
+  "row-220": {
+    "predictedMatch": true,
+    "latencyMs": 3803,
+    "cost": 0.00077625
+  },
+  "row-222": {
+    "predictedMatch": false,
+    "latencyMs": 1890,
+    "cost": 0.00060975
+  },
+  "row-223": {
+    "predictedMatch": false,
+    "latencyMs": 2207,
+    "cost": 0.00059025
+  },
+  "row-221": {
+    "predictedMatch": false,
+    "latencyMs": 4753,
+    "cost": 0.00192525
+  },
+  "row-224": {
+    "predictedMatch": true,
+    "latencyMs": 2746,
+    "cost": 0.00063
+  },
+  "row-226": {
+    "predictedMatch": false,
+    "latencyMs": 1946,
+    "cost": 0.00039825
+  },
+  "row-227": {
+    "predictedMatch": false,
+    "latencyMs": 2934,
+    "cost": 0.00062025
+  },
+  "row-228": {
+    "predictedMatch": true,
+    "latencyMs": 2690,
+    "cost": 0.000714
+  },
+  "row-229": {
+    "predictedMatch": false,
+    "latencyMs": 2026,
+    "cost": 0.00063075
+  },
+  "row-225": {
+    "predictedMatch": false,
+    "latencyMs": 7533,
+    "cost": 0.00296775
+  },
+  "row-231": {
+    "predictedMatch": false,
+    "latencyMs": 1917,
+    "cost": 0.00066375
+  },
+  "row-230": {
+    "predictedMatch": true,
+    "latencyMs": 3577,
+    "cost": 0.0012
+  },
+  "row-234": {
+    "predictedMatch": false,
+    "latencyMs": 2785,
+    "cost": 0.0010275
+  },
+  "row-233": {
+    "predictedMatch": true,
+    "latencyMs": 3926,
+    "cost": 0.001428
+  },
+  "row-232": {
+    "predictedMatch": true,
+    "latencyMs": 4879,
+    "cost": 0.00263625
+  },
+  "row-235": {
+    "predictedMatch": false,
+    "latencyMs": 3026,
+    "cost": 0.00147225
+  },
+  "row-236": {
+    "predictedMatch": true,
+    "latencyMs": 3915,
+    "cost": 0.00146775
+  },
+  "row-237": {
+    "predictedMatch": false,
+    "latencyMs": 4300,
+    "cost": 0.001809
+  },
+  "row-238": {
+    "predictedMatch": false,
+    "latencyMs": 3016,
+    "cost": 0.00082275
+  },
+  "row-239": {
+    "predictedMatch": false,
+    "latencyMs": 3373,
+    "cost": 0.0011805
+  },
+  "row-240": {
+    "predictedMatch": true,
+    "latencyMs": 3081,
+    "cost": 0.00135
+  },
+  "row-241": {
+    "predictedMatch": true,
+    "latencyMs": 3239,
+    "cost": 0.0009525
+  },
+  "row-242": {
+    "predictedMatch": false,
+    "latencyMs": 4093,
+    "cost": 0.00150525
+  },
+  "row-243": {
+    "predictedMatch": false,
+    "latencyMs": 3414,
+    "cost": 0.00157125
+  },
+  "row-244": {
+    "predictedMatch": true,
+    "latencyMs": 4120,
+    "cost": 0.001425
+  },
+  "row-246": {
+    "predictedMatch": true,
+    "latencyMs": 2879,
+    "cost": 0.00137025
+  },
+  "row-245": {
+    "predictedMatch": true,
+    "latencyMs": 3276,
+    "cost": 0.0010665
+  },
+  "row-247": {
+    "predictedMatch": true,
+    "latencyMs": 2943,
+    "cost": 0.001254
+  },
+  "row-248": {
+    "predictedMatch": true,
+    "latencyMs": 3011,
+    "cost": 0.00122925
+  },
+  "row-249": {
+    "predictedMatch": false,
+    "latencyMs": 6253,
+    "cost": 0.0026205
+  },
+  "row-251": {
+    "predictedMatch": false,
+    "latencyMs": 5208,
+    "cost": 0.00210375
+  },
+  "row-250": {
+    "predictedMatch": true,
+    "latencyMs": 8568,
+    "cost": 0.003486
+  },
+  "row-253": {
+    "predictedMatch": true,
+    "latencyMs": 2630,
+    "cost": 0.001188
+  },
+  "row-254": {
+    "predictedMatch": true,
+    "latencyMs": 2588,
+    "cost": 0.00092175
+  },
+  "row-255": {
+    "predictedMatch": true,
+    "latencyMs": 2844,
+    "cost": 0.000879
+  },
+  "row-256": {
+    "predictedMatch": true,
+    "latencyMs": 2910,
+    "cost": 0.0009285
+  },
+  "row-252": {
+    "predictedMatch": true,
+    "latencyMs": 9614,
+    "cost": 0.00480825
+  },
+  "row-257": {
+    "predictedMatch": true,
+    "latencyMs": 2794,
+    "cost": 0.0013425
+  },
+  "row-258": {
+    "predictedMatch": true,
+    "latencyMs": 2643,
+    "cost": 0.00096
+  },
+  "row-260": {
+    "predictedMatch": true,
+    "latencyMs": 2494,
+    "cost": 0.00095925
+  },
+  "row-259": {
+    "predictedMatch": true,
+    "latencyMs": 3977,
+    "cost": 0.0014235
+  },
+  "row-261": {
+    "predictedMatch": true,
+    "latencyMs": 4652,
+    "cost": 0.0028605
+  },
+  "row-263": {
+    "predictedMatch": true,
+    "latencyMs": 4597,
+    "cost": 0.002226
+  },
+  "row-262": {
+    "predictedMatch": true,
+    "latencyMs": 5767,
+    "cost": 0.00306975
+  },
+  "row-264": {
+    "predictedMatch": true,
+    "latencyMs": 3599,
+    "cost": 0.0020415
+  },
+  "row-266": {
+    "predictedMatch": true,
+    "latencyMs": 3399,
+    "cost": 0.00136575
+  },
+  "row-265": {
+    "predictedMatch": true,
+    "latencyMs": 4235,
+    "cost": 0.002331
+  },
+  "row-267": {
+    "predictedMatch": true,
+    "latencyMs": 3915,
+    "cost": 0.00219075
+  },
+  "row-269": {
+    "predictedMatch": true,
+    "latencyMs": 3355,
+    "cost": 0.001344
+  },
+  "row-268": {
+    "predictedMatch": true,
+    "latencyMs": 4400,
+    "cost": 0.0021
+  },
+  "row-270": {
+    "predictedMatch": true,
+    "latencyMs": 2971,
+    "cost": 0.00126075
+  },
+  "row-271": {
+    "predictedMatch": true,
+    "latencyMs": 2389,
+    "cost": 0.000975
+  },
+  "row-272": {
+    "predictedMatch": true,
+    "latencyMs": 2643,
+    "cost": 0.0011145
+  },
+  "row-273": {
+    "predictedMatch": true,
+    "latencyMs": 3545,
+    "cost": 0.0012015
+  },
+  "row-274": {
+    "predictedMatch": true,
+    "latencyMs": 4192,
+    "cost": 0.001623
+  },
+  "row-276": {
+    "predictedMatch": true,
+    "latencyMs": 2916,
+    "cost": 0.00153
+  },
+  "row-275": {
+    "predictedMatch": true,
+    "latencyMs": 4758,
+    "cost": 0.00167175
+  },
+  "row-277": {
+    "predictedMatch": true,
+    "latencyMs": 2626,
+    "cost": 0.00117525
+  },
+  "row-278": {
+    "predictedMatch": true,
+    "latencyMs": 2442,
+    "cost": 0.0008355
+  },
+  "row-279": {
+    "predictedMatch": true,
+    "latencyMs": 5871,
+    "cost": 0.003186
+  },
+  "row-280": {
+    "predictedMatch": true,
+    "latencyMs": 6292,
+    "cost": 0.003006
+  },
+  "row-281": {
+    "predictedMatch": false,
+    "latencyMs": 7820,
+    "cost": 0.0035715
+  },
+  "row-282": {
+    "predictedMatch": false,
+    "latencyMs": 5363,
+    "cost": 0.003114
+  },
+  "row-283": {
+    "predictedMatch": true,
+    "latencyMs": 3373,
+    "cost": 0.00118725
+  },
+  "row-284": {
+    "predictedMatch": true,
+    "latencyMs": 1962,
+    "cost": 0.00087975
+  },
+  "row-285": {
+    "predictedMatch": true,
+    "latencyMs": 2666,
+    "cost": 0.00067425
+  },
+  "row-286": {
+    "predictedMatch": true,
+    "latencyMs": 4135,
+    "cost": 0.00189525
+  },
+  "row-287": {
+    "predictedMatch": true,
+    "latencyMs": 3963,
+    "cost": 0.00158475
+  },
+  "row-288": {
+    "predictedMatch": true,
+    "latencyMs": 3613,
+    "cost": 0.0014805
+  },
+  "row-289": {
+    "predictedMatch": true,
+    "latencyMs": 4661,
+    "cost": 0.00195825
+  },
+  "row-290": {
+    "predictedMatch": true,
+    "latencyMs": 5203,
+    "cost": 0.002241
+  },
+  "row-291": {
+    "predictedMatch": true,
+    "latencyMs": 4733,
+    "cost": 0.00232875
+  },
+  "row-292": {
+    "predictedMatch": true,
+    "latencyMs": 4240,
+    "cost": 0.002022
+  },
+  "row-293": {
+    "predictedMatch": true,
+    "latencyMs": 5488,
+    "cost": 0.0021195
+  },
+  "row-294": {
+    "predictedMatch": true,
+    "latencyMs": 4683,
+    "cost": 0.00135375
+  },
+  "row-295": {
+    "predictedMatch": true,
+    "latencyMs": 3415,
+    "cost": 0.00150225
+  },
+  "row-297": {
+    "predictedMatch": true,
+    "latencyMs": 3999,
+    "cost": 0.00201825
+  },
+  "row-298": {
+    "predictedMatch": true,
+    "latencyMs": 3542,
+    "cost": 0.001764
+  },
+  "row-296": {
+    "predictedMatch": true,
+    "latencyMs": 4951,
+    "cost": 0.0019815
+  },
+  "row-299": {
+    "predictedMatch": true,
+    "latencyMs": 2885,
+    "cost": 0.001251
+  },
+  "row-300": {
+    "predictedMatch": true,
+    "latencyMs": 3753,
+    "cost": 0.001824
+  },
+  "row-301": {
+    "predictedMatch": true,
+    "latencyMs": 66643,
+    "cost": 0.00096675
+  },
+  "row-304": {
+    "predictedMatch": true,
+    "latencyMs": 3150,
+    "cost": 0.00173325
+  },
+  "row-305": {
+    "predictedMatch": true,
+    "latencyMs": 3773,
+    "cost": 0.0009555
+  },
+  "row-306": {
+    "predictedMatch": true,
+    "latencyMs": 2605,
+    "cost": 0.00128175
+  },
+  "row-307": {
+    "predictedMatch": true,
+    "latencyMs": 2839,
+    "cost": 0.00105375
+  },
+  "row-308": {
+    "predictedMatch": true,
+    "latencyMs": 2824,
+    "cost": 0.0013665
+  },
+  "row-309": {
+    "predictedMatch": true,
+    "latencyMs": 2441,
+    "cost": 0.001074
+  },
+  "row-310": {
+    "predictedMatch": true,
+    "latencyMs": 2939,
+    "cost": 0.00119475
+  },
+  "row-311": {
+    "predictedMatch": true,
+    "latencyMs": 3247,
+    "cost": 0.00122325
+  },
+  "row-312": {
+    "predictedMatch": true,
+    "latencyMs": 1653,
+    "cost": 0.0007035
+  },
+  "row-313": {
+    "predictedMatch": true,
+    "latencyMs": 5267,
+    "cost": 0.002823
+  },
+  "row-314": {
+    "predictedMatch": true,
+    "latencyMs": 3751,
+    "cost": 0.00227925
+  },
+  "row-315": {
+    "predictedMatch": true,
+    "latencyMs": 5695,
+    "cost": 0.00286425
+  },
+  "row-316": {
+    "predictedMatch": true,
+    "latencyMs": 3917,
+    "cost": 0.00228525
+  },
+  "row-317": {
+    "predictedMatch": true,
+    "latencyMs": 2855,
+    "cost": 0.00117825
+  },
+  "row-302": {
+    "predictedMatch": true,
+    "latencyMs": 115843,
+    "cost": 0.001251
+  },
+  "row-303": {
+    "predictedMatch": true,
+    "latencyMs": 117457,
+    "cost": 0.00131025
+  },
+  "row-318": {
+    "predictedMatch": false,
+    "latencyMs": 10116,
+    "cost": 0.0046695
+  },
+  "row-319": {
+    "predictedMatch": false,
+    "latencyMs": 8894,
+    "cost": 0.00403575
+  },
+  "row-322": {
+    "predictedMatch": true,
+    "latencyMs": 1865,
+    "cost": 0.000759
+  },
+  "row-323": {
+    "predictedMatch": true,
+    "latencyMs": 1897,
+    "cost": 0.00079275
+  },
+  "row-321": {
+    "predictedMatch": false,
+    "latencyMs": 8152,
+    "cost": 0.00418725
+  },
+  "row-324": {
+    "predictedMatch": true,
+    "latencyMs": 4022,
+    "cost": 0.0018045
+  },
+  "row-320": {
+    "predictedMatch": false,
+    "latencyMs": 14369,
+    "cost": 0.0081705
+  },
+  "row-325": {
+    "predictedMatch": true,
+    "latencyMs": 4578,
+    "cost": 0.00199275
+  },
+  "row-326": {
+    "predictedMatch": true,
+    "latencyMs": 3424,
+    "cost": 0.00105375
+  },
+  "row-328": {
+    "predictedMatch": true,
+    "latencyMs": 2263,
+    "cost": 0.00086325
+  },
+  "row-327": {
+    "predictedMatch": true,
+    "latencyMs": 4859,
+    "cost": 0.0019545
+  },
+  "row-329": {
+    "predictedMatch": true,
+    "latencyMs": 4420,
+    "cost": 0.001953
+  },
+  "row-330": {
+    "predictedMatch": true,
+    "latencyMs": 4506,
+    "cost": 0.00197625
+  },
+  "row-331": {
+    "predictedMatch": true,
+    "latencyMs": 3385,
+    "cost": 0.00148275
+  },
+  "row-332": {
+    "predictedMatch": true,
+    "latencyMs": 3639,
+    "cost": 0.0021435
+  },
+  "row-334": {
+    "predictedMatch": false,
+    "latencyMs": 4665,
+    "cost": 0.0016965
+  },
+  "row-333": {
+    "predictedMatch": true,
+    "latencyMs": 6256,
+    "cost": 0.00251025
+  },
+  "row-335": {
+    "predictedMatch": false,
+    "latencyMs": 4028,
+    "cost": 0.001191
+  },
+  "row-336": {
+    "predictedMatch": true,
+    "latencyMs": 2832,
+    "cost": 0.001521
+  },
+  "row-338": {
+    "predictedMatch": true,
+    "latencyMs": 1934,
+    "cost": 0.00063825
+  },
+  "row-339": {
+    "predictedMatch": true,
+    "latencyMs": 2070,
+    "cost": 0.0006225
+  },
+  "row-337": {
+    "predictedMatch": true,
+    "latencyMs": 4274,
+    "cost": 0.00223875
+  },
+  "row-340": {
+    "predictedMatch": true,
+    "latencyMs": 2433,
+    "cost": 0.00098625
+  },
+  "row-341": {
+    "predictedMatch": true,
+    "latencyMs": 2177,
+    "cost": 0.0008955
+  },
+  "row-343": {
+    "predictedMatch": true,
+    "latencyMs": 1590,
+    "cost": 0.00057525
+  },
+  "row-342": {
+    "predictedMatch": true,
+    "latencyMs": 2544,
+    "cost": 0.00086475
+  },
+  "row-344": {
+    "predictedMatch": true,
+    "latencyMs": 2861,
+    "cost": 0.001293
+  },
+  "row-346": {
+    "predictedMatch": true,
+    "latencyMs": 3664,
+    "cost": 0.00163875
+  },
+  "row-345": {
+    "predictedMatch": true,
+    "latencyMs": 4275,
+    "cost": 0.00198675
+  },
+  "row-347": {
+    "predictedMatch": true,
+    "latencyMs": 2912,
+    "cost": 0.00140625
+  },
+  "row-348": {
+    "predictedMatch": true,
+    "latencyMs": 1878,
+    "cost": 0.00061275
+  },
+  "row-349": {
+    "predictedMatch": true,
+    "latencyMs": 2227,
+    "cost": 0.00068325
+  },
+  "row-350": {
+    "predictedMatch": true,
+    "latencyMs": 3126,
+    "cost": 0.00131775
+  },
+  "row-351": {
+    "predictedMatch": true,
+    "latencyMs": 3447,
+    "cost": 0.0016815
+  },
+  "row-352": {
+    "predictedMatch": true,
+    "latencyMs": 3383,
+    "cost": 0.00166425
+  },
+  "row-353": {
+    "predictedMatch": true,
+    "latencyMs": 2885,
+    "cost": 0.0013275
+  },
+  "row-354": {
+    "predictedMatch": true,
+    "latencyMs": 3133,
+    "cost": 0.00157875
+  },
+  "row-355": {
+    "predictedMatch": true,
+    "latencyMs": 4018,
+    "cost": 0.001644
+  },
+  "row-356": {
+    "predictedMatch": true,
+    "latencyMs": 3329,
+    "cost": 0.00174225
+  },
+  "row-357": {
+    "predictedMatch": true,
+    "latencyMs": 2633,
+    "cost": 0.00128925
+  },
+  "row-358": {
+    "predictedMatch": true,
+    "latencyMs": 5257,
+    "cost": 0.0025905
+  },
+  "row-359": {
+    "predictedMatch": true,
+    "latencyMs": 6669,
+    "cost": 0.003099
+  },
+  "row-360": {
+    "predictedMatch": false,
+    "latencyMs": 6628,
+    "cost": 0.0029055
+  },
+  "row-361": {
+    "predictedMatch": true,
+    "latencyMs": 2896,
+    "cost": 0.00110925
+  }
+}

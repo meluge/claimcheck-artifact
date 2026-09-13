@@ -1,0 +1,933 @@
+{
+  "chunk-1": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 9624,
+    "cost": 0.00659175,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-0": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 9668,
+    "cost": 0.006996792,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-3": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 10614,
+    "cost": 0.007226802,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-5": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 8220,
+    "cost": 0.006061044,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-4": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 9396,
+    "cost": 0.006562578,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-6": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 9565,
+    "cost": 0.00647955,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-2": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 20433,
+    "cost": 0.010812714,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-7": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 13229,
+    "cost": 0.008691012,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-10": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 12507,
+    "cost": 0.007212216,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-9": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 12817,
+    "cost": 0.008456514,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-8": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 14642,
+    "cost": 0.008685402,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-11": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 7266,
+    "cost": 0.006001578,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-12": {
+    "predictions": [
+      true,
+      null,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 11462,
+    "cost": 0.00748935,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 10,
+      "rawToolArgs": "{\"comparisons\": [{\"discrepancy\": \"The lemma only ensures r == 3*x, which is exactly the triple of x. This matches the requirement.\", \"explanation\": \"The postcondition r == 3*x faithfully expresses returning the triple of x.\", \"lemmaName\": \"triple4\", \"match\": true, \"requirementIndex\": 0, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement says 'Ensure for all i less than returned i and for all j, that no other i, j exists' and 'Ensure for all j between returned i j, no other j exist.' The lemma's first ensures clause only covers ii <= i-1 (i.e., ii strictly less than i), which matches 'i less than returned i'. The second ensures covers jj between i and j. However, the requirement's phrasing 'for all i less than returned i and for all j' could be interpreted as covering all j (not just jj < nums.Length), but the lemma restricts jj < nums.Length which is reasonable. The lemma appears to faithfully capture the first-pair semantics.\", \"explanation\": \"The lemma captures the first-pair property: no earlier i has any valid j, and no earlier j for the same i. This matches the requirement's intent.\", \"lemmaName\": \"two_sum__ctrl_bound_shift\", \"match\": true, \"requirementIndex\": 0, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement says index 4 increments by 3 and all other elements stay the same, with array length at least 8. The lemma only ensures a[7]==516 and a[8]==old(a[8]), and requires length >= 9. It does not ensure index 4 increments by 3, nor that all other elements stay the same. This is a significant weakening/missing case.\", \"explanation\": \"The lemma omits the increment of index 4 by 3 and the preservation of all other elements, only covering index 7 and 8.\", \"lemmaName\": \"update_array__C2\", \"match\": false, \"requirementIndex\": 2, \"weakeningType\": \"missing-case\"}, {\"discrepancy\": \"The requirement says 'Ensure no new elements appear', meaning r should contain exactly the keys from m1 and m2 (no extra keys). The lemma only ensures all keys from m1 and m2...[truncated]"
+    }
+  },
+  "chunk-14": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 11007,
+    "cost": 0.008003226,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-13": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 11861,
+    "cost": 0.00782034,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-15": {
+    "predictions": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 14302,
+    "cost": 0.00913308,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-17": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 9781,
+    "cost": 0.006464964,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-16": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 10531,
+    "cost": 0.007005768,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-18": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 12345,
+    "cost": 0.007871952,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-19": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 10419,
+    "cost": 0.006936204,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-20": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 14483,
+    "cost": 0.009147666,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-22": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 12052,
+    "cost": 0.007905612,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-21": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 15430,
+    "cost": 0.0098175,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-23": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 8753,
+    "cost": 0.00652443,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-26": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 8450,
+    "cost": 0.006937326,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-24": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 11093,
+    "cost": 0.007271682,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-25": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 11198,
+    "cost": 0.007871952,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-27": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 14038,
+    "cost": 0.008494662,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-28": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 12042,
+    "cost": 0.008202942,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-30": {
+    "predictions": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 10438,
+    "cost": 0.00808962,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-29": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 11870,
+    "cost": 0.008199576,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-31": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 13098,
+    "cost": 0.008239968,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-32": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 8795,
+    "cost": 0.006599604,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-33": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 9302,
+    "cost": 0.007740678,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-36": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 9908,
+    "cost": 0.004838064,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-34": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 17953,
+    "cost": 0.010179906,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-35": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      null,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 14285,
+    "cost": 0.00860013,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "deepseek/deepseek-v4-pro-0813",
+        "model": "deepseek/deepseek-v4-pro-0813",
+        "provider": "Alibaba"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 10,
+      "rawToolArgs": "{\"comparisons\": [{\"discrepancy\": \"The requirement says 'pair-wise sum of two arrays' but the lemma's postcondition only ensures c[i] == a[i] + b[i] for indices in range, which is correct. However, the requirement is vague and the lemma matches the intent. No meaningful discrepancy.\", \"explanation\": \"The lemma correctly computes pairwise sum of two equal-length arrays. Matches requirement.\", \"lemmaName\": \"array_sum\", \"match\": true, \"requirementIndex\": 0, \"weakeningType\": \"none\"}, {\"discrepancy\": \"The requirement says the function should return the presum array and True at the point balance falls below zero, and False otherwise. The lemma's postcondition for result==true only ensures there EXISTS some negative cumulative sum, but does not ensure the presum array is returned 'at that point' (i.e., the array is the prefix up to the first negative). Also the requirement implies the presum array is the full cumulative sum array, which the lemma does ensure. The main discrepancy is that the lemma does not tie the returned array to the first point of going negative, but the requirement's phrasing 'at that point function should return the presum array' is ambiguous. The lemma's result==true condition is weaker than 'detect if at any point balance falls below zero' combined with returning the array at that point.\", \"explanation\": \"The lemma ensures cumulative sums and a boolean for existence of negative sum, but does not capture 'return the presum array at that point' semantics. The result==true only guarantees existence of a negative sum, not that the array is truncated at the first negative point. This is a potential weakening.\", \"lemmaName\": \"below_zero__ctrl_forall_to_not_exists\", \"match\": false, \"requirementIndex\": 1, \"weakeningType\": \"weakened-postcondition\"}, {\"discrepancy\": \"The requirement says 'Return the index such that array[index-1] < key <= array[index]'. The lemma ensures all elements before n are < key and all elements from n onward are >= key, which is equiva...[truncated]"
+    }
+  }
+}

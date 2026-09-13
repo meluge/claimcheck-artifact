@@ -1,0 +1,3292 @@
+{
+  "chunk-0": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 8226,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-3": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 9073,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-2": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 10716,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-1": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 11089,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-4": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 3816,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-7": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 41398,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-5": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 46192,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-6": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 46348,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-8": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 50933,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-11": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 12036,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-10": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 15959,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-12": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 8716,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-13": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 18333,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-15": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 18162,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-14": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 20837,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-9": {
+    "predictions": [
+      false,
+      null,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 39889,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 34,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"car_1__q138__control__where_to_on_inner\",\"match\":false,\"discrepancy\":\"The SQL query has a syntax error: T3 is referenced in the ON clause before it is defined in the JOIN. The condition 'T3.year > 1980' appears in the first JOIN's ON clause, but T3 (CARS_DATA) is not joined until after. This makes the query invalid. Even if corrected, the logic would work, but as written it cannot execute.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The query attempts to filter by year > 1980 but has a critical syntax/logical error that prevents it from executing correctly. The back-translation assumes the query works, but it doesn't.\"},{\"requirementIndex\":2,\"lemmaName\":\"car_1__q806__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query correctly joins COUNTRIES, CONTINENTS, and CAR_MAKERS, filters for Europe, groups by country, and returns countries with at least 3 manufacturers. This matches the requirement exactly.\"},{\"requirementIndex\":3,\"lemmaName\":\"car_1__q653__semantic__flip_comparison\",\"match\":false,\"discrepancy\":\"The requirement asks for countries with MORE THAN 3 car makers OR producing 'fiat'. The query returns countries with FEWER THAN 3 car makers OR producing 'fiat'. The first condition is inverted (< 3 instead of > 3).\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The comparison operator in the first part of the UNION is flipped. The requirement specifies '> 3' but the query uses '< 3', which is the opposite condition.\"},{\"requirementIndex\":4,\"lemmaName\":\"car_1__q1044__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query correctly joins all necessary tables, filters for weight < 3500 and FullName != 'Ford Motor Company', and returns distinct models. This matches the requirement exactly.\"},{\"requirementIndex\":5,\"lemmaName\":\"car_1__q487__control__count_star_to_one\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanati...[truncated]"
+    }
+  },
+  "chunk-18": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 5106,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-19": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 5593,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-17": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 11127,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-16": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 14867,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-23": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 4157,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-24": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 3056,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-20": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 12347,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-22": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 10066,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-21": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 13318,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-28": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 8331,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-27": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 14062,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-25": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 16605,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-26": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 19696,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-30": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 5206,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-29": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 11771,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-34": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 22745,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-32": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 30136,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-33": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      null
+    ],
+    "latencyMs": 32219,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 30,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"dog_kennels__q000__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query correctly counts professionals who have never performed any treatments by checking if their professional_id does not appear in the Treatments table. This directly matches the requirement.\"},{\"requirementIndex\":1,\"lemmaName\":\"dog_kennels__q475__control__commute_eq\",\"match\":false,\"discrepancy\":\"The requirement asks for the owner of the YOUNGEST dog, but the query finds owners whose dogs have the MAXIMUM age. This is the opposite of what was requested.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The query uses MAX(age) instead of MIN(age). The requirement specifically asks for the youngest dog, but the query returns the oldest.\"},{\"requirementIndex\":2,\"lemmaName\":\"dog_kennels__q692__semantic__bump_limit\",\"match\":false,\"discrepancy\":\"The requirement asks for the owner who paid the largest amount in total, but the query returns the top 2 owners (LIMIT 2) instead of just 1. This returns more results than requested.\",\"weakeningType\":\"weakened-postcondition\",\"explanation\":\"The query uses LIMIT 2 instead of LIMIT 1, returning the top 2 owners by total treatment cost rather than just the single owner who spent the most.\"},{\"requirementIndex\":3,\"lemmaName\":\"dog_kennels__q506__semantic__swap_aggregate\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query correctly finds owners whose dogs have the minimum age (youngest dog) and returns their last names. This matches the requirement.\"},{\"requirementIndex\":4,\"lemmaName\":\"dog_kennels__q1256__control__count_star_to_one\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query correctly counts dogs whose age is less than the average age. This directly matches the requirement.\"},{\"requirementIndex\":5,\"lemmaName\":\"dog_kennels__q444__semantic__drop_where_conjunct\",\"match\":false,\"discrepancy\":\"The requirement asks for professi...[truncated]"
+    }
+  },
+  "chunk-31": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      null,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 38432,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 36,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"dog_kennels__q167__control__count_star_to_one\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query correctly counts professionals who have not performed any treatments by checking if their professional_id is not in the Treatments table. This directly matches the requirement.\"},{\"requirementIndex\":1,\"lemmaName\":\"dog_kennels__q1219__semantic__drop_where_conjunct\",\"match\":false,\"discrepancy\":\"The requirement asks for the last name of the owner of the youngest dog (singular), but the query returns last names of ALL owners who own at least one dog, without filtering for the youngest dog.\",\"weakeningType\":\"weakened-postcondition\",\"explanation\":\"The query is missing the WHERE clause that would filter for the youngest dog. It returns all owners with dogs instead of just the owner of the youngest dog.\"},{\"requirementIndex\":2,\"lemmaName\":\"dog_kennels__q100__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query correctly uses EXCEPT to find professionals who have never performed treatments, returning their id, role, and email. This matches the requirement exactly.\"},{\"requirementIndex\":3,\"lemmaName\":\"dog_kennels__q1034__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query correctly returns first names from Professionals and Owners that do not appear as dog names using UNION and EXCEPT. This matches the requirement.\"},{\"requirementIndex\":4,\"lemmaName\":\"dog_kennels__q1142__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The query correctly uses INTERSECT to find states where both owners and professionals live. This matches the requirement.\"},{\"requirementIndex\":5,\"lemmaName\":\"dog_kennels__q110__semantic__flip_order\",\"match\":false,\"discrepancy\":\"The requirement asks for the owner who paid the LARGEST amount, but the query orders by SUM(cost_of_treatment) ASC (ascending), which returns the ...[truncated]"
+    }
+  },
+  "chunk-36": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 7071,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-37": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 5290,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-35": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 14030,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-38": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 6460,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-41": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 11763,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-39": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 13811,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-42": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 10853,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-40": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      null,
+      false
+    ],
+    "latencyMs": 16216,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 14,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"employee_hire_evaluation__q003__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The requirement asks for the name of the employee with the highest one-time bonus. The query correctly joins employee and evaluation tables, orders by bonus descending, and limits to 1 result. The back-translation accurately captures this intent.\"},{\"requirementIndex\":1,\"lemmaName\":\"employee_hire_evaluation__q413__semantic__drop_where_conjunct\",\"match\":false,\"discrepancy\":\"The requirement asks for districts that have BOTH shops with <3000 products AND shops with >10000 products. The query only checks for districts with >10000 products. It's missing the condition about shops with <3000 products entirely.\",\"weakeningType\":\"missing-case\",\"explanation\":\"The original requirement has a conjunction of two conditions (less than 3000 AND more than 10000), but the query only implements one half of this condition. The INTERSECT should be between districts with <3000 products and districts with >10000 products, but the first SELECT is missing the WHERE clause filtering for <3000.\"},{\"requirementIndex\":2,\"lemmaName\":\"employee_hire_evaluation__q1112__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The requirement asks for shop names where no employees are hired. The query correctly uses NOT IN to find shops whose shop_id doesn't appear in the hiring table. The back-translation accurately reflects this logic.\"},{\"requirementIndex\":3,\"lemmaName\":\"employee_hire_evaluation__q151__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The requirement asks for the employee who received the most awards (evaluation records). The query groups by Employee_ID, counts records, orders by count descending, and limits to 1. This correctly identifies the employee with the most evaluations.\"},{\"requirementIndex\":4,\"lemmaName\":\"employee_hire_evaluation__q856__contr...[truncated]"
+    }
+  },
+  "chunk-44": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 4801,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-43": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 7100,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-45": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 18176,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-48": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 16796,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-47": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 23607,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-46": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 30553,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-49": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 15921,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-50": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 14032,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-51": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 10090,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-54": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 6059,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-52": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 10898,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-53": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 10535,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-55": {
+    "predictions": [
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 8191,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-59": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 16101,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-57": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      null,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 19193,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_use",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 18,
+      "rawToolArgs": "{\"comparisons\":[{\"requirementIndex\":0,\"lemmaName\":\"network_1__q005__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The back-translation correctly captures that the query returns names of students who do not appear as student_id in any Friend relationship, which is equivalent to students with no friends.\"},{\"requirementIndex\":1,\"lemmaName\":\"network_1__q041__original__none\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The back-translation accurately describes returning names of friends of Kyle by joining Friend on student_id (Kyle) with friend_id to get the friend names.\"},{\"requirementIndex\":2,\"lemmaName\":\"network_1__q134__semantic__bump_limit\",\"match\":false,\"discrepancy\":\"The query returns the 2 grades with the highest counts (LIMIT 2), but the requirement asks for THE grade with the greatest number, implying a single result.\",\"weakeningType\":\"weakened-postcondition\",\"explanation\":\"The requirement asks for the single grade with the most students, but the query returns up to 2 grades. This is a semantic error introduced by the LIMIT 2 clause.\"},{\"requirementIndex\":3,\"lemmaName\":\"network_1__q1248__control__commute_eq\",\"match\":true,\"discrepancy\":\"\",\"weakeningType\":\"none\",\"explanation\":\"The back-translation correctly captures students with grade > 5 who appear as student_id in at least 2 Friend relationships, matching the requirement.\"},{\"requirementIndex\":4,\"lemmaName\":\"network_1__q052__semantic__swap_correlation\",\"match\":false,\"discrepancy\":\"The query contains a semantic error: T1.liked_id = T2.name compares an integer ID to a text name, which is a type mismatch. This will not correctly identify students liked by someone.\",\"weakeningType\":\"wrong-property\",\"explanation\":\"The join condition in the Likes clause is incorrect (comparing liked_id to name instead of id), making the query semantically broken and unable to correctly identify students who are liked.\"},{\"requirementIndex\":6,\"lemmaName\":\"network_1__q086_...[truncated]"
+    }
+  },
+  "chunk-58": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 23961,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-56": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 29519,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-60": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 11814,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-61": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 10516,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-65": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 4978,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-64": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 6092,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-62": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 11984,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-63": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 9660,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-66": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 13153,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-67": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 18703,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-69": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 16820,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-68": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 20811,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-71": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 5477,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-70": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 15813,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-72": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 11192,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-74": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 8227,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-73": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 12011,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-76": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 4305,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-77": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 3594,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-75": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 8561,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-79": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 3304,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-78": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 4382,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-80": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 4236,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-81": {
+    "predictions": [
+      false
+    ],
+    "latencyMs": 5933,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-85": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 4248,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-82": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 9183,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-83": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 9306,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-84": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 8594,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-86": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 29499,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-87": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 30419,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-91": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 4205,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-88": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 34149,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-89": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 37219,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-92": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 12494,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-93": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 15123,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-94": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 15895,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-96": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 6974,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-97": {
+    "predictions": [
+      false,
+      true
+    ],
+    "latencyMs": 19255,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-98": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 19119,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-95": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 34167,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-99": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 8296,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-100": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 7783,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-103": {
+    "predictions": [
+      true
+    ],
+    "latencyMs": 2964,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-102": {
+    "predictions": [
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 7013,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-101": {
+    "predictions": [
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 10132,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-90": {
+    "predictions": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 75465,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-104": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 33978,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-105": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 54377,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-106": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 52972,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-110": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 8438,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-107": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 49055,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-111": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 8532,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-109": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 22707,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-108": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 47791,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-112": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 15458,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-116": {
+    "predictions": [
+      true,
+      false
+    ],
+    "latencyMs": 4037,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-115": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 12277,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-117": {
+    "predictions": [
+      false,
+      false
+    ],
+    "latencyMs": 7885,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-113": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 20848,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-114": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 18951,
+    "cost": null,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "anthropic/claude-haiku-4.5",
+        "model": "claude-haiku-4-5-20251001",
+        "provider": null
+      }
+    ],
+    "missingInformalizations": null
+  }
+}

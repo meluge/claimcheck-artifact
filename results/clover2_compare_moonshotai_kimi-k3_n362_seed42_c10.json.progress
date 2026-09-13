@@ -1,0 +1,918 @@
+{
+  "chunk-1": {
+    "predictions": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 31872,
+    "cost": 0.048528,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Phala"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-4": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 58129,
+    "cost": 0.0655902,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-0": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 100051,
+    "cost": 0.075216,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Phala"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-5": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 25641,
+    "cost": 0.0348868,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-7": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 31844,
+    "cost": 0.0489866,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-2": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 215054,
+    "cost": 0.1224645,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "DigitalOcean"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-6": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 136887,
+    "cost": 0.075192,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Phala"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-8": {
+    "predictions": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 245185,
+    "cost": 0.09042195,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "DigitalOcean"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-10": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 157627,
+    "cost": 0.0362778,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-11": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 40872,
+    "cost": 0.027615,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Moonshot AI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-13": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 24403,
+    "cost": 0.0498862,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-12": {
+    "predictions": [
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "latencyMs": 65305,
+    "cost": 0.0501306,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-3": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    "latencyMs": 65881,
+    "cost": 0.10248956,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-14": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 70958,
+    "cost": 0.073131,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Phala"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-16": {
+    "predictions": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 69549,
+    "cost": 0.0833612,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-17": {
+    "predictions": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 30614,
+    "cost": 0.0229518,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Moonshot AI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-15": {
+    "predictions": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 113424,
+    "cost": 0.100572,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Phala"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-18": {
+    "predictions": [
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 43558,
+    "cost": 0.0422656,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-20": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 44865,
+    "cost": 0.0304578,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Moonshot AI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-19": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 87074,
+    "cost": 0.0644098,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-21": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 69269,
+    "cost": 0.0916136,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-23": {
+    "predictions": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 60749,
+    "cost": 0.039754,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-25": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 57652,
+    "cost": 0.0569218,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-22": {
+    "predictions": [
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 149833,
+    "cost": 0.0888972,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "DigitalOcean"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-27": {
+    "predictions": [
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 31660,
+    "cost": 0.0246588,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Moonshot AI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-26": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 44477,
+    "cost": 0.04901,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-28": {
+    "predictions": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "latencyMs": 55141,
+    "cost": 0.0361098,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Moonshot AI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-24": {
+    "predictions": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 94650,
+    "cost": 0.06150171,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-30": {
+    "predictions": [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "latencyMs": 73445,
+    "cost": 0.0441288,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Moonshot AI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-29": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 151992,
+    "cost": 0.087453,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Phala"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-31": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 110925,
+    "cost": 0.0704235,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "DigitalOcean"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-33": {
+    "predictions": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "latencyMs": 48066,
+    "cost": 0.0355668,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Moonshot AI"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-32": {
+    "predictions": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "latencyMs": 165811,
+    "cost": 0.07657095,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "DigitalOcean"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-35": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      null,
+      false,
+      false,
+      false
+    ],
+    "latencyMs": 92214,
+    "cost": 0.0661941,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "DigitalOcean"
+      }
+    ],
+    "missingInformalizations": null,
+    "diagnostics": {
+      "stopReason": "tool_calls",
+      "parseError": null,
+      "nullCount": 1,
+      "chunkSize": 10,
+      "rawToolArgs": "{\"comparisons\": [{\"discrepancy\": \"none\", \"explanation\": \"Back-translation preserves the equal-length precondition, same-length output, and element-wise sum property.\", \"lemmaName\": \"array_sum\", \"match\": true, \"requirementIndex\": 0, \"weakeningType\": \"none\"}, {\"discrepancy\": \"none\", \"explanation\": \"Back-translation preserves the presum array structure (length |ops|+1, s[0]=0, consecutive sum relation) and the biconditional result semantics derived from the two implication ensures.\", \"lemmaName\": \"below_zero__ctrl_forall_to_not_exists\", \"match\": true, \"requirementIndex\": 1, \"weakeningType\": \"none\"}, {\"discrepancy\": \"none\", \"explanation\": \"Back-translation preserves the sorted precondition and the insertion-point characterization: all before n < key, all from n onward >= key, plus the bound contrapositive clause.\", \"lemmaName\": \"binary_search__ctrl_contrapositive\", \"match\": true, \"requirementIndex\": 2, \"weakeningType\": \"none\"}, {\"discrepancy\": \"none\", \"explanation\": \"Back-translation's English summary asserts the returned index is where the element is found, and the postcondition adds that no earlier index equals it, together capturing the first-appearance property required.\", \"lemmaName\": \"linear_search2__C6\", \"match\": true, \"requirementIndex\": 3, \"weakeningType\": \"none\"}, {\"discrepancy\": \"none\", \"explanation\": \"Back-translation preserves the existence precondition, in-bounds result with P true at n, and the no-earlier-satisfying-predicate property.\", \"lemmaName\": \"linear_search3__ctrl_bound_shift\", \"match\": true, \"requirementIndex\": 4, \"weakeningType\": \"none\"}, {\"discrepancy\": \"none\", \"explanation\": \"Back-translation preserves the uniqueness precondition on inner arrays, the frame-preservation property (same inner array objects), the only-one-element-changed property, and the new value assignment.\", \"lemmaName\": \"modify_2d_array__ctrl_merge_ensures\", \"match\": true, \"requirementIndex\": 5, \"weakeningType\": \"narrowed-scope\"}, {\"discrepancy\": \"The requirement asks for rot...[truncated]"
+    }
+  },
+  "chunk-36": {
+    "predictions": [
+      true,
+      true
+    ],
+    "latencyMs": 42505,
+    "cost": 0.0269724,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "DigitalOcean"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-34": {
+    "predictions": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "latencyMs": 117071,
+    "cost": 0.10017156,
+    "served": [
+      {
+        "role": "compare",
+        "modelId": "moonshotai/kimi-k3",
+        "model": "moonshotai/kimi-k3",
+        "provider": "Sail Research"
+      }
+    ],
+    "missingInformalizations": null
+  },
+  "chunk-9": {
+    "predictions": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "latencyMs": 0,
+    "cost": null,
+    "error": "openrouter moonshotai/kimi-k3: overloaded (no tool_call despite forced tool_choice) -- {\"id\":\"gen-1788857423-Rn9xUEZIBk4H1pe4hUxS\",\"object\":\"chat.completion\",\"created\":1788857423,\"model\":\"moonshotai/kimi-k3\",\"provider\":\"Sail Research\",\"system_fingerprint\":null,\"service_tier\":null,\"choices\":[{\"index\":0,\"logprobs\":null,\"finish_reason\":\"length\",\"native_finish_reason\":\"length\",\"message\":{\"role\":\"assistant\",\"content\":null,\"refusal\":null,\"reasoning\":\"Let me analyze each pair carefully.\\n\\n**Requirement 0:** \\\"Linearly search for an element in a possibly empty array and return the index of its first appearance. Require that the input array contains the element. Ensure the returned index is the first appearance of the element.\\\"\\n\\nLemma linear_search2:\\n- requires exists i::0<=i<a.Length && a[i]==e\\n- ensures 0<=n<a.Length && a[n]==e\\n- ensures forall k :: 0 <= k < n ==> a[k]!=e\\n\\nBack-translation: returns index n such that element is at that index, and no element before index n matches. This matches the requirement: requires element exists, ensures returned index is first appearance. Match = true.\\n\\n**Requirement 1:** \\\"Linearly search for an existing element that satisfies a predicate in an array. Return the index of its first appearance. Require that the input array contains such an element. Ensure that no previous elements satisfy such predicate.\\\"\\n\\nLemma linear_search3__C2:\\n- requires exists i :: 0 <= i < a.Length && P(a[i])\\n- ensures 0 <= n < a.Length\\n- ensures forall k :: 0 <= k < n ==> !P(a[k])\\n\\nNote: the lemma does NOT ensure P(a[n])! It only ensures n is in bounds and no previous elements satisfy P. The back-translation says \\\"the method returns an index n such that the predicate holds at that index\\\" — but the lemma doesn't actually ensure P(a[n]). Wait, the back-translation claims \\\"the predicate holds at that index\\\" in the English, but the postcondition listed says only \\\"The returned index n is within bounds (0 <= n < array length), and for all indices k before n, the predicate P does not hold for the element at k.\\\" So the back-trans"
+  }
+}
